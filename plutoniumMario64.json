@@ -1,0 +1,1566 @@
+{
+  "Course 1": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|Long Jump| OR (|!reasonable| AND |@DJ| AND |Kick|) OR (|!hard| AND |Jump| AND |@WK|) OR (|!expert| AND |Sideflip| AND |Backflip| AND |@WK|)"
+      },
+      {
+        "exists": true,
+        "Comment": "The box switch is easier than the final jump to the star platform (there's a slope so you can slopejump to it)",
+        "Area": "1",
+        "Requirements": "(|@DJ height| OR |@WK|) AND (|@SFdive distance| OR (|!obscure| AND |Jump|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure/Hard: GP the edge of the quicksand pit, then do one quick motion through the pit without getting stuck",
+        "Area": "1",
+        "Requirements": "|@Jump height| AND |@GP| AND (|Jump| OR (|!obscure| AND |Dive|) OR (|!hard| AND (|Slidekick| OR |Long Jump| OR |Backflip|)))"
+      },
+      {
+        "exists": true,
+        "Comment": "No requirements, just swim",
+        "Area": "1",
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Comment": "neat star idea",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@Barely LJLG height| OR |@WK|) AND (|@Forward jump| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "yeah",
+        "Area": "1",
+        "Requirements": "|@GP near wall|"
+      },
+      {
+        "exists": false,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "No requirements",
+      "Area": "1",
+      "Requirements": ""
+    }
+  },
+  "Course 2": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Reasonable: LJ off the sign, then off the whomp\nExpert: Goomba bounce, then an angled runoff WK off the spinning bridge into the star",
+        "Area": "1",
+        "Requirements": "|@DJ height| OR |@WK| OR (|!reasonable| AND (|Jump| OR |Long Jump|)) OR (|!expert| AND |Dive| AND |Wallkick|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|@WK| OR |Sideflip| OR (|!reasonable| AND |@DJ|)) AND (|@Forward jump| OR (|!reasonable| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|@WK| OR |Sideflip| OR (|!reasonable| AND |@DJ|)) AND (|Backflip| OR |Sideflip| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "expert: Two goomba bounces because the red behind the VC star can be done with a reclimb",
+        "Area": "1",
+        "Requirements": "(|@Forward move| OR (|!reasonable| AND |@WK| AND |Vanish Cap|)) AND (|@Any jump| OR (|!expert| AND |Dive|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard: Goomba bounce",
+        "Area": "1",
+        "Requirements": "|@Any jump| OR (|!hard| AND |Dive| AND |Wallkick|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Sideflip DJ off the respawned VC box. Obscure because waiting before grabbing the cap makes the timer lenient.",
+        "Area": "1",
+        "Requirements": "|Vanish Cap| AND (|@WK| OR (|!obscure| AND |Sideflip| AND |Double Jump|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "Hard: Goomba bounce",
+      "Area": "1",
+      "Requirements": "|@Any jump| OR (|!hard| AND |Dive|)"
+    }
+  },
+  "Course 3": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "The bottom of the lake is normal floor, so WK is required for retriability",
+        "Area": "1",
+        "Requirements": "(|@Forward jump| OR (|!reasonable| AND |Backflip| AND |@WK|)) AND (|@WK| OR (|!reasonable| AND |@SFdive distance|) OR |!hard|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@DJLG height| OR (|!reasonable| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Use the cannon",
+        "Area": "1",
+        "Requirements": "(|@SFdive distance| OR (|!reasonable| AND |@WK|) OR |!obscure|) AND |@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|@SFdive distance| OR (|!hard| AND |Jump|) OR (|!expert| AND |Sideflip|)) AND (|@Jumpkick| OR |@Sillykick| OR |!Framewalks| OR |!hard|) AND (|Sideflip| OR |@WK| OR (|!reasonable| AND |@DJ|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Star Display warps: Warp into Wing Cap and exit/die, even without WC ticket",
+        "Area": "1",
+        "Requirements": "(|@Barely LJLG height| AND (|@Forward jump| OR |!reasonable|)) OR (|!Star Display warps| AND |!reasonable|)"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Course 4": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK|"
+      },
+      {
+        "exists": true,
+        "Comment": "Act-specific star. Would have had interesting logic otherwise.",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@Forward jump| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Reasonably moveless except for the stargrab.",
+        "Area": "1",
+        "Requirements": "|@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Longjump 2 wallkicks in the locked door room",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@Jump height| OR |!obscure|) AND (|@Forward jump| OR |!obscure|) AND (|@Boos| OR |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Swimming jump is enough for everything",
+        "Area": "1",
+        "Requirements": "(|Vanish Cap| AND |@Forward jump|) OR |!reasonable|"
+      },
+      {
+        "exists": true,
+        "Comment": "Dive rollout can get you through the painting, but can't wallkick to the star",
+        "Area": "1",
+        "Requirements": "|Vanish Cap| AND |@WK|"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "No requirements",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Course 5": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@DJ height| OR (|!reasonable| AND |@WK|)) AND (|@Forward jump| OR |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Skip the last plank and longjump straight to the pillar",
+        "Area": "1",
+        "Requirements": "|@C5 planks| AND |@WK|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND |Vanish Cap| AND (|@Forward jump| OR (|!hard| AND (|@WK| OR |Dive|))) AND (|@DJ height| OR |@WK|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Couple ways to enter with forward BFWK",
+        "Area": "1",
+        "Requirements": "|@C5 planks| AND (|@Jump height| OR (|!reasonable| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard: Kick/Punch to LJ bounce on a 2-high pokey; LJ goomba bounce into the star",
+        "Area": "1",
+        "Requirements": "|@SFdive distance| AND (|@DJ height| OR |!obscure|) AND (|@Jump height| OR (|!obscure| AND |Shell|) OR (|!hard| AND |Long Jump| AND (|Punch| OR |Kick| OR |!expert|)))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: The top of the cactus has flat ground. Sideflip pokey bounce if you don't have WK.",
+        "Area": "1",
+        "Requirements": "(|Shell| AND |@C5 act 5|) OR (|!obscure| AND |@Jumpkick|) OR (|!obscure| AND |Jump| AND (|@WK| OR (|!hard| AND |Sideflip|)) AND (|Long Jump| OR (|!hard| AND |@TJ|)))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    }
+  },
+  "Course 6": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Moveless until the stargrab",
+        "Area": "1",
+        "Requirements": "|@Any jump| OR (|!hard| AND |Wallkick|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|Metal Cap| AND (|@Any jump| OR (|!hard| AND |@Rollout| AND |Wallkick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard: Either a precise BFWK from the red window to the box window, or a more lenient BFWK into a crossover",
+        "Area": "1",
+        "Requirements": "|@WK| AND |@GP near wall| AND (|@Forward jump| OR (|!hard| AND |@Forward BFWK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Forward sideflip to the 5th secret, then arch out",
+        "Area": "1",
+        "Requirements": "(|@Jump height| OR (|!reasonable| AND |@WK|)) AND (|Long Jump| OR (|!reasonable| AND (|@Jumpkick| OR (|@DJ| AND |Dive|))) OR (|!obscure| AND |Sideflip|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Climb to star 4, then jump down to the wallkick secret",
+        "Area": "1",
+        "Requirements": "(|@Jump height| OR (|!reasonable| AND |@WK|)) AND (|@WK| OR (|!obscure| AND |@Jump height| AND (|Long Jump| OR |@Jumpkick| OR (|@DJ| AND |Dive|) OR |Sideflip|)))"
+      },
+      {
+        "exists": true,
+        "Comment": "Need to dodge the fires and time the dive/slidekick when the elevator has stopped, but it's retriable and also only in SD warp logic",
+        "Area": "1",
+        "Requirements": "|@Any jump| OR (|!reasonable| AND (|Dive| OR |Slidekick|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 7": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|Jump| OR |Metal Cap| OR (|!reasonable| AND |@Forward jump|)) AND (|@DJ height| OR (|!reasonable| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Moveless until the stargrab, which only requires HP",
+        "Area": "1",
+        "Requirements": "(|Metal Cap| AND (|@Any jump| OR (|!reasonable| AND |Dive|))) OR (|!reasonable| AND |@Forward jump|) OR (|!obscure| AND (|@Any jump| OR |Punch|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|Shell| OR (|!reasonable| AND |Metal Cap|)) AND (|@Any jump| OR (|!reasonable| AND |Dive|)) AND (|Metal Cap| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Shoot the cannon to the ceiling behind the chuckya platform, such that you bonk and land on the platform\nHard: Ride the shell into the volcano to do the obscure strat",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@DJ height| OR (|!reasonable| AND |@Jumpkick|) OR |!hard|) AND (|Metal Cap| OR (|!obscure| AND (|@Forward move| OR |Slidekick| OR |Punch| OR (|!hard| AND |Shell|))))"
+      },
+      {
+        "exists": true,
+        "Comment": "Shell: Breakdance 2 koopas for their shells, leaving coins on the bridge to survive the reclimb\nCap+dive: Shell star island -> lavafall red -> cap bounce",
+        "Area": "1",
+        "Requirements": "(|Metal Cap| AND (|@Any jump| OR (|!hard| AND |Dive|))) OR (|!reasonable| AND |@Forward jump|) OR (|!hard| AND |Shell|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|Metal Cap| OR |!reasonable|) AND (|@DJ height| OR (|!reasonable| AND |@WK|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 8": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "expert: 7-6 firsties.\nEverything else: Box switch and a precise jump across the boxes.",
+        "Area": "1",
+        "Requirements": "(|@DJLG height| OR (|!reasonable| AND |@WK|)) AND (|Long Jump| OR (|!reasonable| AND |Jump| AND (|@DJ| OR |!hard|) AND (|Kick| OR |Dive|)) OR (|!obscure| AND |@TJ| AND (|@WK| OR |!hard|)) OR (|!expert| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@DJ height| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Need something to break the boxes with",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@DJ height| OR |!reasonable|) AND (|Punch| OR |@GP|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Sideflip hits the ceiling",
+        "Area": "1",
+        "Requirements": "(|@DJLG height| OR |@WK| OR (|!obscure| AND |Wallkick|)) AND (|Jump| OR |Long Jump| OR (|!obscure| AND |Wallkick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Use the star 2 cannons",
+        "Area": "1",
+        "Requirements": "|Vanish Cap| AND |@Any jump| AND (|@DJ height| OR |!reasonable|) AND (|@Forward move| OR |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|@WK| OR (|!reasonable| AND |@DJLG height|)) AND (|Long Jump| OR (|Jump| AND (|Kick| OR |!reasonable|)) OR (|!hard| AND |Sideflip|))"
+      },
+      {
+        "exists": false,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "No requirements",
+      "Area": "1",
+      "Requirements": ""
+    }
+  },
+  "Course 9": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "0xA until stargrab",
+        "Area": "1",
+        "Requirements": "(|@Forward move| OR |Slidekick| OR (|!reasonable| AND |Wallkick|)) AND |@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|@WK| OR (|!reasonable| AND |Sideflip|)) AND (|@Forward jump| OR (|!hard| AND |@Forward BFWK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| AND (|@JK height| OR (|!reasonable| AND |Jump|) OR |@WK|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|Long Jump| or |Jump| or |Sideflip| or |Kick| or |!Framewalks|) AND (|Long Jump| or |!reasonable|) AND (|@DJLG height| or |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "The still purple is pyramid sand. Sideflip goes on the log then sideflips up to the normal floor",
+        "Area": "1",
+        "Requirements": "(|@DJLG height| or (|!reasonable| and |@WK|)) AND (|Long Jump| or |@Jumpkick| or (|!obscure| and (|Jump| or |Kick| or |Dive| or |Sideflip|)))"
+      },
+      {
+        "exists": true,
+        "Comment": "Sillykicks might be full kaizo with good timings, I couldn't get it to work",
+        "Area": "1",
+        "Requirements": "|@Forward jump| AND (|@DJLG height| OR |@WK| OR (|!obscure| AND |@Jumpkick|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 10": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or (|!reasonable| and |@Any jump|) or (|!obscure| and |@Rollout| and |Wallkick|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|Jump| or |Sideflip| or |Long Jump| or (|!obscure| and |Backflip|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Barely LJLG height|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@DJLG height| or |!obscure|) AND (|Punch| or |Kick| or |@GP| or |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "There was a secret that would have been hard with just rollout and wallkick, but you need any jump for the 5th secret anyway",
+        "Area": "1",
+        "Requirements": "|@WK| and (|@Forward jump| or |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Barely LJLG height|"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 11": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or (|!reasonable| and |@Any jump|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "((|@Forward jump| or (|!hard| and |@Forward BFWK|)) and (|@DJ| or (|Long Jump| and |@WK|) or (|!reasonable| and (|Jump| or |Sideflip|)))) OR (|!obscure| and |Course 11 Cannon| and (|@Any jump| or (|@Rollout| and |Wallkick|)))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Jump height| or |@WK| or (|!obscure| and |Long Jump|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Aim exactly at the highest coin",
+        "Area": "1",
+        "Requirements": "|Course 11 Cannon| AND (|@Any jump| or (|!obscure| and |@Rollout|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": true,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": "|@Any jump|"
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    }
+  },
+  "Course 12": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "Turns out the time limit is 48 seconds, which is enough to walk and also take out the Lakitu with a backflip on the way",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or (|!obscure| and |@Any jump|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or (|!obscure| and |Backflip|) or (|!hard| and |Dive|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or (|!hard| and |@Forward BFWK|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Forward jump| or |@Forward BFWK|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK| AND |@Jump height| AND (|Vanish Cap| or |!obscure|) AND (|Long Jump| or (|!reasonable| and |@Forward jump|) or |@Forward BFWK|)"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": "|@Forward jump| or |@Forward BFWK|"
+    }
+  },
+  "Course 13": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Course 14": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Course 15": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Bowser 1": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|Long Jump| or (|@DJ| and (|Dive| or |Kick|))) AND (|@DJ| or |Sideflip| or |@WK| or (|!reasonable| and |Jump|))"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": true
+  },
+  "Bowser 2": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@Forward jump| or |!obscure|) AND (|Metal Cap| or |!reasonable|)"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": true
+  },
+  "Bowser 3": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "(|Jump| or |Long Jump| or (|!hard| and |Sideflip|)) AND (|@Jump height| or (|!reasonable| and |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@B3 low pipe|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@B3 low pipe|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@B3 low pipe| AND |@Jumpdive distance| AND (|Long Jump| or |@DJ| or |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@B3 boss pipe| AND |Long Jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@B3 boss pipe| AND |@Forward jump| AND (|@DJLG height| or |@WK|) AND (|Long Jump| or |@TJ| or (|@DJ| and (|Dive| or |Kick|)) or (|!obscure| and |@WK|))"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "No requirements",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": false
+  },
+  "Slide": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Switch is hard without standing jump, final jump to the star can be tricky depending on the available moves",
+        "Area": "1",
+        "Requirements": "|@Forward jump| AND (|Jump| OR (|!reasonable| AND |Backflip|) OR |!hard|) AND (|Long Jump| OR (((|!reasonable| AND |@DJ|) OR (|!obscure| AND |Jump|)) AND (|Kick| OR |Dive|)) OR (|!hard| AND |@SFdive distance|))"
+      },
+      {
+        "exists": true,
+        "Comment": "expert: Skeeter bounce can once in a blue moon give just enough height",
+        "Area": "1",
+        "Requirements": "|@JK height| OR (|!reasonable| AND |@Any jump|) OR |!expert|"
+      },
+      {
+        "exists": true,
+        "Comment": "Moveless except for the stargrab (yes even the red next to the star)",
+        "Area": "1",
+        "Requirements": "|@Any jump|"
+      },
+      {
+        "exists": true,
+        "Comment": "With Ground Pound: Water jump into the shell box, then shelljump on top of the box",
+        "Area": "1",
+        "Requirements": "(|Shell| OR |!reasonable|) AND (|@Any jump| OR (|!obscure| AND |Slidekick|) OR (|!hard| AND |Shell| AND |Ground Pound|))"
+      },
+      {
+        "exists": true,
+        "Comment": "No requirements",
+        "Area": "1",
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 1": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 2": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Sideflips on ice are something else... at least you can crawl",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@DJ| or (|!obscure| and |Sideflip| and (|Jump| or |Long Jump| or |!hard|))) AND (|Kick| or |@TJ| or |Sideflip| or |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Probably not the only logic but doublejumps feel very very intended with all the grinding in this star",
+        "Area": "1",
+        "Requirements": "|@WK| AND |@DJ|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@WK| AND (|@DJ| or (|!obscure| and |Sideflip| and (|Jump| or |Long Jump| or |!hard|))) AND (|Kick| or |@TJ| or |Sideflip| or |!obscure|)"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 3": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Metal Cap": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Reasonable: Use the other cap",
+        "Area": "1",
+        "Requirements": "|Metal Cap| AND |@Any jump| AND (|@WK| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Using Dorrie to skip the climb would be hard, but you would need jump height for the stargrab anyway",
+        "Area": "1",
+        "Requirements": "|@Jump height| OR |@WK|"
+      },
+      {
+        "exists": true,
+        "Comment": "Seems like the only way to grab onto that big hangable ceiling",
+        "Area": "1",
+        "Requirements": "|@WK|"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND |Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Comment": "expert: Dive slideoff into 2 firsties with good straining",
+        "Area": "1",
+        "Requirements": "(|Metal Cap| OR |!reasonable|) AND (|@Any jump| OR (|!expert| AND |Dive| AND |Wallkick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Skipping the switch would also require a wallkick.",
+        "Area": "1",
+        "Requirements": "|@Barely LJLG height| AND |@WK|"
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Wing Cap": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Flight| AND (|@GP| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Flight|"
+      },
+      {
+        "exists": true,
+        "Comment": "no i did not prove that the equivalent of cannonless WMotR is too hard for !Full Kaizo",
+        "Area": "1",
+        "Requirements": "|@Flight| AND |@WK|"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Vanish Cap": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|Jump| AND |@WK| AND (|@TJ| OR |!reasonable|) AND (|Long Jump| OR |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Any jump over or past the hurdle, then forward move or slidekick to the cannon and elevator",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@Forward move| OR (|!reasonable| AND |Slidekick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|Jump| AND |Vanish Cap| AND (|@TJ| OR (|!reasonable| AND (|@WK| OR |@DJ| OR |Sideflip|)) OR (|!obscure| AND |Backflip|))"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Sign": {
+      "exists": false,
+      "Comment": "",
+      "Area": "1",
+      "Requirements": ""
+    }
+  },
+  "Overworld": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Requirements": "|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND (|@Jump height| OR |!reasonable|)"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": true,
+      "Comment": "No requirements",
+      "Area": "1",
+      "Requirements": ""
+    },
+    "Comment": "",
+    "Area": "1",
+    "Requirements": "",
+    "Overworld": true
+  },
+  "Other": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Level": "Bowser 1",
+        "Requirements": "|@Jumpdive distance| AND (|Long Jump| or |@DJ| or |!obscure|) AND (|@DJ| or |Sideflip| or |@WK| or (|!reasonable| and |Jump|)) AND (|Vanish Cap| or |!reasonable|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: 44° wklg at the tj spot, then ljwk into the star",
+        "Area": "2",
+        "Level": "Bowser 2",
+        "Requirements": "|@Jumpdive distance| AND |@WK| AND (|@TJ| or (|!reasonable| and |@DJLG height|) or |!obscure|)"
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Level": "Wing Cap",
+        "Requirements": "|@Any jump| AND (|@SFdive distance| OR (|!obscure| AND |Jump| AND |@WK|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Any jump over or past the hurdle, then forward move or slidekick to the cannon and elevator, then any jump to press the switch",
+        "Area": "1",
+        "Level": "Vanish Cap",
+        "Requirements": "|@Any jump| AND (|@Forward move| OR (|!reasonable| AND |Slidekick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Run into Chuckya about 50 times until he throws you onto the switch.",
+        "Area": "1",
+        "Level": "Metal Cap",
+        "Requirements": "|@Any jump| OR |!obscure|"
+      },
+      {
+        "exists": false,
+        "Comment": "",
+        "Area": "1",
+        "Level": null,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Comment": "",
+        "Area": "1",
+        "Level": "Bowser 3",
+        "Requirements": "|@B3 boss pipe| AND |@Forward jump| AND (|@DJLG height| or |@WK|) AND (|Long Jump| or |@TJ| or (|@DJ| and (|Dive| or |Kick|)) or (|!obscure| and |@WK|))"
+      }
+    ],
+    "Settings": {
+      "cannons": true,
+      "prog_key": 0,
+      "Version": "v0.6",
+      "Entrances": true,
+      "Moves": true
+    },
+    "Macros": {
+      "Buffered Kick": "|Kick|",
+      "Speedkick": "|!hard| AND |Dive| AND |@Buffered Kick|",
+      "DJ": "|Double Jump| AND (|Jump| OR |@Buffered Kick|)",
+      "TJ": "|Triple Jump| AND (|@DJ| OR (|Double Jump| AND |Sideflip|))",
+      "Jumpkick": "|Jump| AND |Kick|",
+      "Steepjump Dive": "|!reasonable| AND |Jump| AND |Dive|",
+      "Jumpdive": "(|Jump| OR |@DJ|) AND |Dive|",
+      "Forward jump": "|Jump| OR |@DJ| OR |Long Jump| OR (|!reasonable| AND |Sideflip|)",
+      "Any jump": "|Jump| OR |@DJ| OR |Long Jump| OR |Sideflip| OR |Backflip|",
+      "Precision jump": "|@Jumpkick| OR (|!reasonable| AND |@Forward jump|)",
+      "Forward move": "|@Forward jump| OR (|!reasonable| AND |Dive|)",
+      "Forward BFWK": "|!obscure| AND |Backflip| AND |Wallkick|",
+      "WK": "|Wallkick| AND (|Jump| OR |@DJ| OR |Long Jump| OR |Sideflip| OR (|!reasonable| AND |Backflip|))",
+      "GP": "|Ground Pound| AND (|Jump| OR |@DJ| OR |Sideflip| OR |Backflip|)",
+      "GP near wall": "|Ground Pound| AND (|Jump| OR |@DJ| OR |Sideflip| OR |Backflip| OR |@WK|)",
+      "DJLG height": "|@DJ| OR |Sideflip|",
+      "BFGP height": "(|Backflip| AND |Ground Pound|) OR (|Sideflip| AND |Ground Pound|) OR |@TJ|",
+      "BF height": "|Backflip| OR |Sideflip| OR (|@DJ| AND |Ground Pound|) OR |@TJ|",
+      "JGP height": "(|Jump| AND |Ground Pound|) OR |@DJ| OR |Backflip| OR |Sideflip|",
+      "JK height": "|@JGP height| OR (|!reasonable| AND |Jump| AND |Kick|)",
+      "Jump height": "|Jump| OR |@DJ| OR |Backflip| OR |Sideflip|",
+      "Jumpdive distance": "|Long Jump| OR (|Jump| AND |Kick|) OR (|@DJ| AND |Dive|) OR (|!reasonable| AND |Jump| AND |Dive|)",
+      "Rollout": "|Dive| OR |Slidekick|",
+      "Pokeys": "|Punch| OR (|!reasonable| AND |Dive|) OR |Slidekick| OR |@GP| OR |@Jumpkick| OR (|!reasonable| AND |@BF height|) OR |!obscure|",
+      "Boos": "|@GP| OR |Punch| OR |@Buffered Kick| OR |!hard|",
+      "Spindrifts": "|Punch| OR |@GP| OR |@Buffered Kick| OR |@Jumpkick| OR (|!reasonable| AND |@Any jump|) OR |!obscure|",
+      "Flyguy self-defense": "|@GP| OR (|!reasonable| AND |@Jumpkick|) OR |!Forgo self-defense| OR |!hard|",
+      "Lakitu self-defense": "|@GP| OR |@Jumpkick| OR (|!reasonable| AND (|Jump| OR |Sideflip|)) OR (|!obscure| AND |@Any jump|) OR |!Forgo self-defense| OR |!hard|",
+      "Bob-omb self-defense": "|Punch| OR |@Buffered Kick| OR |@Jumpkick| OR (|!reasonable| AND |Jump|) OR |!Forgo self-defense| OR |!obscure|",
+      "Barely LJLG height": "|@Jump height| OR (|!reasonable| AND |Long Jump|)",
+      "Sillykick": "|!reasonable| AND |@Buffered Kick|",
+      "C5 planks": "(|@Forward jump| OR |@Forward BFWK|) AND (|@Jump height| OR |!obscure|)",
+      "C5 act 5": "|@C5 planks| AND |@WK| AND |Vanish Cap| AND (|@Forward jump| OR |!hard|)",
+      "SFdive distance": "|Long Jump| OR (|Jump| AND |Kick|) OR (|Jump| AND |Dive|) OR (|!reasonable| AND |@DJ|) OR (|!obscure| AND |Sideflip| AND |Dive|)",
+      "Flight": "|Wing Cap| AND |@TJ|",
+      "DJ height": "|@DJ| OR |Backflip| OR |Sideflip|",
+      "B3 low pipe": "(|@Forward jump| AND |@Jump height|) OR (|!reasonable| and |Long Jump|) OR (|!hard| and |Dive| and |Slidekick| and |@Any jump|)",
+      "B3 boss pipe": "|@B3 low pipe| AND |@Jumpdive distance| AND (|Long Jump| or |@DJ| or |!obscure|)"
+    },
+    "Options": [
+      "expert",
+      "Star Display warps"
+    ],
+    "Entrances": [
+      [
+        "Overworld",
+        "1",
+        "Course 1",
+        "1",
+        "|@Forward jump| OR |!reasonable| OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 2",
+        "1",
+        "|Stars:1| OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 3",
+        "1",
+        "(|@Any jump| AND |Stars:1|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 4",
+        "1",
+        "|Stars:3| OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 5",
+        "1",
+        "(|@Any jump| AND |Stars:15|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 6",
+        "1",
+        "(|@Any jump| AND |Stars:15|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 7",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:18|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 8",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:24|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 9",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:40|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 10",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:40|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 11",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:45|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Course 12",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Stars:45|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Bowser 1",
+        "1",
+        "|@Any jump| AND |Stars:12|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Bowser 2",
+        "1",
+        "|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Key 1| AND |Stars:30|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Bowser 3",
+        "1",
+        "(|@Any jump| AND (|@Forward jump| OR |!reasonable|) AND |Key 2| AND |Stars:60|) OR (|!Star Display warps| and |!Major Skips|)",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Slide",
+        "1",
+        "((|@Any jump| OR |!obscure|) AND |Stars:1|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Course 10",
+        "1",
+        "Secret 2",
+        "1",
+        "(|@Any jump| OR |@Rollout|) AND |Ground Pound|",
+        false
+      ],
+      [
+        "Course 3",
+        "1",
+        "Wing Cap",
+        "1",
+        "|@Barely LJLG height| AND (|@Forward jump| OR |!reasonable|) AND |@WK|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Vanish Cap",
+        "1",
+        "(|@Any jump| AND |Stars:18| AND (|@Forward jump| OR |!obscure|)) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Metal Cap",
+        "1",
+        "(|@Any jump| AND |Stars:18|) OR |!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Wing Cap",
+        "1",
+        "|!Star Display warps|",
+        false
+      ],
+      [
+        "Overworld",
+        "1",
+        "Secret 2",
+        "1",
+        "|!Star Display warps|",
+        false
+      ],
+      [
+        "Bowser 2",
+        "1",
+        "Bowser 2",
+        "2",
+        "|@WK| AND (|@Forward jump| or |!obscure|) AND (|Metal Cap| or |!reasonable|)",
+        false
+      ]
+    ]
+  }
+}

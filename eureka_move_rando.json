@@ -1,0 +1,1129 @@
+{
+  "Course 1": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "|Jump| or |Backflip| or |Sideflip| or (|!obscure| and |Long Jump|) or (|!hard| and (|Wallkick| or |Course 1 Cannon| or |Shell|) and (|Kick| or |Ground Pound|))"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Long Jump| or (|Double Jump| and (|Dive| or |Kick|)) or (|!obscure| and (|Jump| or |Sideflip| or |Shell|)) or (|!hard| and (|Backflip| or |Wallkick| or |Course 1 Cannon|))"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|Jump| and (|Kick| or |Dive| or |Wallkick| or |Long Jump|)) or || or (|!reasonable| and (|Double Jump| or |Sideflip| or |Long Jump|)) or (|!obscure| and |Jump|) or (|!hard| and |Course 1 Cannon| and |Backflip|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Jump| or |Long Jump| or |Backflip| or |Sideflip| or (|!obscure| and |Shell|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Jump| or |Sideflip| or (|!reasonable| and (|Long Jump| or |Backflip|)) or (|!obscure| and |Shell|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Course 1 Cannon| and |Wallkick| or (|Double Jump| and |hard|))"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Jump| or |Sideflip| or (|!reasonable| and (|Long Jump| or |Backflip|)) or (|!hard| and (|Kick| or |Dive| or (|Wallkick| and |Ground Pound|) or |Course 1 Cannon| or |Shell|))"
+      }
+    ],
+    "Cannon": {
+      "exists": true,
+      "Requirements": "|Long Jump| or (|Double Jump| and (|Dive| or |Kick|)) or ((|Double Jump| or |Sideflip|) and |Wallkick|) or (|!reasonable| and (|Triple Jump| or (|Wallkick| and |Jump|))) or (|!obscure| and (|Jump| or |Shell|))"
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Kick|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 2": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "(|Wallkick| and (|Jump| or |Long Jump|)) or (|!reasonable| and |Jump|) or (|!obscure| and (|Sideflip| or |Long Jump|)) or (|!hard| and (|Backflip| and |Wallkick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard: Flip to AC, WK first pole then house, double burn to other side, WK pole to get on silo, bonk box then bonk silo but WK silo bonk to break box, repeat WK for silo. RO/SK off house then RO/SK to 3rd burn for silo, GP Box.",
+        "Requirements": "((|Jump| and (|Dive| or |Kick|)) or (|Double Jump|)) or (|Long Jump| and (|Jump| or |Sideflip| or |Backflip|)) or (|!reasonable| and (|Long Jump| or (|Sideflip| and |Dive|))) or (|!obscure| and (|Jump| or |Sideflip| or |Backflip|)) or (|!hard| and (|Wallkick| or (|Ground Pound| and (|Dive| or |Slidekick|))))"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|Triple Jump| and |Wing Cap|) or (|Wallkick| and (|Long Jump| or |Double Jump| or ((|Jump| or |Sideflip|) and |Dive|))) or (|!reasonable| and (|Jump| or |Sideflip| or (|Long Jump| and |Backflip|))) or (|!obscure| and (|Long Jump| or |Backflip|))"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|Metal Cap| or |!reasonable| and (|Kick| or |Ground Pound| or |Punch|) and (|Jump| or |Backflip| or |Sideflip|)) or (!|obscure| and (|Kick| or |Ground Pound| or |Punch|) and |Long Jump|) or (|!hard| and (|Kick| or |Ground Pound| or |Punch|) and (|Slidekick| or |Dive|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard: WK conveyor. RO on conveyor. SK from upper platform near star to RC conveyor, can use thwomp to clip onto platform.",
+        "Requirements": "(|Wallkick| and (|Jump| or |Long Jump|)) or (|!reasonable| and ((|Long Jump| or |Jump|) and |Backflip|) or |Sideflip| or |Double Jump|)(|!obscure| and |Jump|) or (!|hard| and |Backflip| and (|Wallkick| or |Dive| or |Slidekick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure and Hard use the fire shooter object at the end of the red conveyor to get up.",
+        "Requirements": "(|Triple Jump| and |Dive|) or (|!reasonable| and (|Triple Jump| or (|Double Jump| and (|Kick| or |Dive|)))) or (|!obscure| and (((|Jump| or |Long Jump|) and |Wallkick|) or ((|Jump| or |Sideflip| or |Long Jump|) and (|Backflip|)) or |Double Jump|)) or (|!hard| and (|Backflip| and (|Wallkick| or |Slidekick| or |Dive|)) or |Sideflip| or (|Jump| and |Kick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard needs break the box outside of conveyor, then dive off of the barn roof with wing cap and rollout onto conveyor to get inside factory. May also need to use star 2 strats.",
+        "Requirements": "|Jump| or (|!reasonable| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)) or (|!hard| and (|Dive| and |Wing Cap| and (|Punch| or |Kick|)))"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Kick|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 3": {
+    "Stars": [
+      {
+        "exists": true,
+        "Comment": "Obscure and Hard uses bomb to break cannon box. Hard WK uses lures spindrift to water with some damage pushing it back, jump from water onto it to land on greyish slab, wallkick up to boat. SK open shell box or burn to top of shell box and walk off GP to open. Use bomb in cave to clip into water then falloff onto spindrift to open shell box.",
+        "Requirements": "((|Jump| or |Sideflip|) and (|Punch| or |Kick| or |Ground Pound|)) or (|!reasonable| and (|Long Jump| or |Backflip|) and (|Punch| or |Kick| or |Ground Pound|)) or (|!obscure| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)) or (|!hard| and ((|Slidekick| or |Ground Pound| or |Dive| or |Punch| or |Kick|) and |Shell|) or |Wallkick|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure: Shell ride up mountain to him. Hard: BF WK to seesaw blocks then WK waterfall. SK open shell box or burn to top of shell box and walk off GP to open. Logic works with previous star1/check unlock too.",
+        "Requirements": "((|Jump| or |Long Jump| or |Sideflip|) and (|Punch| or (|!obscure| or |Dive|))) or (|!obscure| and |Shell| and |Backflip| and (|Punch or |Dive|))(|!hard| and ((|Backflip| and |Wallkick|) or ((|Slidekick| or |Ground Pound| or |Dive| or |Punch| or |Kick|) and |Shell|)) and (|Punch| or |Dive|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure use the spindrift. Hard use the lava to boost or dive to kill bomb in cave and use it to clip into water to break last box.",
+        "Requirements": "|Kick| or |Punch| or (|Ground Pound| and ((|Jump| or |Backflip| or |Sideflip| or (|!reasonable| and |Long Jump|)) or (|!obscure| and (|Dive| or |Slidekick|)) or (|!hard|))) or (|!hard| and |Dive|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure use the cannon/bomb strat from star 1. Hard use the cannon strat from star 1 and precise cannon shot to open the box, then walk up tree back falling into flyguy to grab star.",
+        "Requirements": "(|Long Jump| and (|Jump| or |Backflip| or |Sideflip|)) or (|!reasonable| and (|Long Jump| or (|Jump| and |Kick|))) or (|!obscure| and (|Jump| or |Backflip| or |Sideflip|)) or (|!hard| and ((|Slidekick| or |Ground Pound| or |Dive| or |Punch| or |Kick|) and |Shell|) or |Wallkick|)"
+      },
+      {
+        "exists": true,
+        "Comment": "Obscure is just tight jumps or WK. Hard uses the drain hole next to one of the crystals.",
+        "Requirements": "(|Long Jump| and (|Jump| or |Sideflip|)) or (|!reasonable| and |Long Jump|) or (|!obscure| and (|Double Jump| or (|Jump| and (|Kick| or |Walkick|)) or (|Sideflip| and |Wallkick|))) or (|!hard| and (|Jump| or |Sideflip|))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard either is star 1 strats to get shell or lava boosting jumping to star.",
+        "Requirements": "(|Shell| and (|Jump| or |Sideflip| or |Backflip| or (|Long Jump| and |!reasonable|))) or (|!hard| and (|Jump| or (|Shell| and (|Slidekick| or |Ground Pound| or |Dive| or |Punch| or |Kick|))))"
+      },
+      {
+        "exists": true,
+        "Comment": "Hard uses star 1 strats to get shell or to ship. Ground Pound off of cliff to blue coin thing. WK and Kick are doable but it's very hard and might need RNG from ship lower bomb.",
+        "Requirements": "(|Jump| or |Sideflip| or |Backflip| or (|Long Jump| and |!reasonable|)) or (|!hard| and ((|Shell| and (|Slidekick| or |Ground Pound| or |Dive| or |Punch| or |Kick|)) or ((|Wallkick| or |Ground Pound|) and (|Kick| or |Punch| or |Dive|))))"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:5| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Kick|)",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 4": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "(|Double Jump| and |hard|) or (|Double Jump| and |Kick|) or (|Double Jump| and |Dive|) or (|Double Jump| and |Wallkick|) or (|Double Jump| and |Long Jump|) or (|Triple Jump|) or (|Wallkick| and |hard|) or(|Wallkick| and |Kick|) or (|Wallkick| and |Long Jump|) or (|Wallkick| and |Long Jump|) or (|Sideflip| and |Long Jump|) or (|Sideflip| and |Kick|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|Long Jump| and |obscure|) or |Double Jump| or |Sideflip| or |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|obscure| or |Double Jump| or |Backflip| or |Sideflip| or |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|Double Jump| and |obscure|) or |Triple Jump| or |Sideflip| or |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Double Jump| or (|Long Jump| and |obscure|) or (|Sideflip| and |obscure|) or |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|obscure| or |Double Jump| or |Long Jump| or |Wallkick| or |Dive|"
+      },
+      {
+        "exists": true,
+        "Comments": "Was very difficult logic to map out, probably missed things. Mostly just do lava jumps and shit idk.",
+        "Requirements": "(((|Jump| or |Long Jump|) and (|Wallkick| or (|Backflip| or |Sideflip|))) or (|Ground Pound| and (|Jump| or |Sideflip|)) or |Double Jump|) or (|!reasonable| and (|Sideflip|) or (|Jump| and (|Backflip| or |Slidekick| or |Dive| or |Kick| or |Punch|))) or (|!obscure| and (|Jump| or |Long Jump|)) or (|!hard| and ((|Ground Pound| or |Wallkick|) and (|Slidekick| or |Dive| or |Kick|) or (|Wallkick| and |Punch|) or |Backflip|))"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:5|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 5": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Shell|"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "(hard| and |Shell|) or |Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:10|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 6": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "|obscure| or |Double Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Requirements": "(|hard| and (|Kick| or (|Double Jump| and |Dive|) or |Triple Jump|)) or (|Double Jump| and |Kick|) or (|Double Jump| and |Dive|) or |Long Jump|"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Ground Pound| or (|obscure| and |Kick|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "NONE"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 7": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Vanish Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Double Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Wallkick| or (|obscure| and (|Punch| or |Kick|)) or |Ground Pound| or |Vanish Cap|"
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 8": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 9": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Vanish Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Wing Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Vanish Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Wing Cap| and |Vanish Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 10": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "|Course 10 Cannon|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Metal Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      }
+    ],
+    "Cannon": {
+      "exists": true,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1| and |Key 2|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 11": {
+    "Stars": [
+      {
+        // Assume this is top star
+        "exists": true,
+        "Requirements": "|hard| or |Wallkick|"
+      },
+      {
+        // Assume this is red coin star
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        // Assume this is midway star
+        "exists": true,
+        "Requirements": "(|hard| and (|Dive| or |Long Jump|)) or |Wallkick|"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 12": {
+    "Stars": [
+      {
+        // assume star in the blackhole thingy???
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        // assume red coin
+        "exists": true,
+        "Requirements": "(|obscure| and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick| or |LongJump|)) or ((|Kick| or |Long Jump|) and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick|))"
+      },
+      {
+        // assume star at the top of wheel thingy
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 13": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 14": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Course 15": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1| and |Key 2|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Bowser 1": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "(|hard| and |Kick|) or |Wallkick|"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:15|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Bowser 2": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:40| and |Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Bowser 3": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Stars:60| and |Key 1| and |Key 2|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Slide": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 1": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 2": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Secret 3": {
+    "Stars": [
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Metal Cap": {
+    "Stars": [
+      {
+        "exists": true,
+        //assuming this is the 5 coin secret one. Can technically get into this with spider jump wall kick but it is very very rng.
+        "Requirements": "|Wallkick| and ((|obscure| and (|Double Jump| or |Triple Jump| or |Long Jump| or |Dive| or |Kick|) or (|Metal Cap| and (|Long Jump| or |Kick|)))"
+      },
+      {
+        // assume this is the red coin one
+        "exists": true,
+        "Requirements": "(|hard| and |Wallkick|) or (|obscure| and (|Double Jump| or |Metal Cap| or (|Sideflip| and |Wallkick|)) or (|Triple Jump| or |Long Jump| or |Dive| or |Kick|)"
+      },
+      {
+        // assume this is the walkway one
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Wing Cap": {
+    "Stars": [
+      {
+        // assume red coin star
+        "exists": true,
+        "Requirements": "|obscure| or (|Wing Cap| and |Triple Jump|)"
+      },
+      {
+        // assume island star
+        "exists": true,
+        "Requirements": "NONE"
+      },
+      {
+        // assume 5 coin secret star
+        "exists": true,
+        "Requirements": "|obscure| or (|Wing Cap| and |Triple Jump|)"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1| and |Wallkick|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Vanish Cap": {
+    "Stars": [
+      {
+        "exists": true,
+        "Requirements": "|Vanish Cap|"
+      },
+      {
+        "exists": true,
+        "Requirements": ""
+      },
+      {
+        "exists": true,
+        "Requirements": "|Vanish Cap|"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "|Key 1|",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Overworld": {
+    "Stars": [
+      {
+        // Assume this is goombarick lab
+        "exists": true,
+        "Requirements": "|Stars:10| and (|Punch| or |Ground Pound| or |Kick|)"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Stars:70| and |Key 1|"
+      },
+      {
+        "exists": true,
+        "Requirements": "|Key 1|"
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": false
+      }
+    ],
+    "Cannon": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Troll Star": {
+      "exists": false,
+      "Requirements": ""
+    },
+    "Requirements": "",
+    "Sign": {
+      "exists": false
+    }
+  },
+  "Other": {
+    "Stars": [
+      {
+        "exists": true,
+        "Level": "Bowser 1",
+        "Requirements": "|Stars:15| and ((|Punch| or |Dive|) and (|Wallkick| or (|Kick| and |hard|))"
+      },
+      {
+        "exists": true,
+        "Level": "Bowser 2",
+        "Requirements": "|Stars:40| and |Key 1|"
+      },
+      {
+        "exists": true,
+        "Level": "Wing Cap",
+        "Requirements": "|Key 1| and |Wallkick|"
+      },
+      {
+        "exists": true,
+        "Level": "Vanish Cap",
+        "Requirements": "|Key 1|"
+      },
+      {
+        "exists": true,
+        "Level": "Metal Cap",
+        "Requirements": "|hard| or (|obscure| and (|Double Jump| or |Metal Cap| or (|Sideflip| and |Wallkick|)) or (|Triple Jump| or |Long Jump| or |Dive| or |Kick|)"
+        // Can technically do this with only insane spider jumps. First spider jump is fairly easy so I say obscure.
+      },
+      {
+        "exists": false
+      },
+      {
+        "exists": true,
+        "Requirements": "|Stars:60| and |Key 1| and |Key 2|"
+      }
+    ],
+    "Settings": {
+      "cannons": true,
+      "prog_key": 1,
+      "Version": "v0.5",
+      "Moves": false
+    },
+    "Troll Star": {
+      "exists": false
+    },
+    "Sign": {
+      "exists": false
+    },
+    "Macros": {},
+    "Options": [],
+    "Entrances": []
+  }
+}

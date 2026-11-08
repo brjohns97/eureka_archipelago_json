@@ -1,0 +1,64 @@
+at least need:
+Up the platform:
+	obscure:
+		Double Jump
+		Backflip
+	reasonable
+		Triple Jump
+	por:
+		Jump + WK
+		Long Jump + WK
+		Sideflip
+
+first gap
+	hard:
+		Double Jump
+	obscure:
+		Triple Jump
+		Jump + WK
+		Sideflip + WK
+	reasonable:
+		Jump + Kick
+	POR:
+		Double Jump + Dive
+		Doubel Jump + Kick
+		Long Jump
+
+second gap:
+	obscure:
+		Double Jump
+	reasonable:
+		Triple Jump
+		Jump + Kick
+		Double Jump + Dive
+	POR:
+		Long Jump
+
+
+(|!reasonable| and ()) or 
+(|!obscure| and (|Triple Jump| or (|Backflip| and ((|Jump| and |Kick|) or |Long Jump| or (|Double Jump| and |Dive|))))) or 
+(|!hard| and (|Wallkick| or |Double Jump|))
+
+"Comments": "Under the assumption that snowmen killing is obscure"
+
+        "Requirements": "|Kick| or |Long Jump| or |Double Jump| or |Wallkick| or |obscure|"
+
+"Jump"
+	"Double Jump"
+		"Triple Jump"
+"Long Jump"
+"Backflip"
+"Sideflip"
+"Wallkick" (can combine with all 3 jumps, Sideflip, Backflip, long Jump)
+"Slidekick"
+"Dive" (can combine with all 3 Jumps, Sideflip, Wallkick)
+"Punch"
+"Ground Pound" (can kinda combine with 3 Jumps, Backflip, Sideflip, and Wallkick)
+"Kick" (can combine with Single and Double Jumps)
+"Shell"
+"Vanish Cap"
+"Metal Cap"
+"Wing Cap" (Can combine with Cannons and Triple Jump and slowfall)
+"Key 1"
+"Key 2"
+"Cannons"

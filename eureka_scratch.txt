@@ -1,28 +1,24 @@
-no moves st3:
-	32
-dve only st4:
-	100+ (obscure)
-wk only st5:
-	61?
-wk + slidekick st6:
-	102... its crazy man
-	need to use flyguy to get up to eyeball area, need to clip into water to collect the 7, need to slidekick to get 4 reds getting a specific red last so you can claim star at right height
-any jump st7:
-	52
-backflip gp :
-	100+(POR)
-Long Jump only :
-	100+ (POR)
-Jump only :
-	100+ (POR)
-Sideflip only :
-	100+ (POR)
-Backflip shell st8:
-	100+ (POR)
+st2:
+	19 no moves POR
+st3:
+	37 no moves reasonable
+st4:
+	55 no moves obscure
+st5:
+	70 no moves hard
+st6:
+	62 attack moves only (not GP)
+st7:
+	73 dive POR
+	89 dive reasonable
+	100+ dive obscure
+st8:
+	92 atk moves obscure
+st9:
+	100+ non backflip jumps
 
-(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Shell|))) or 
-(|!obscure| and (|Dive| or (|Shell| and |Slidekick| or |Kick|))) or 
-(|!hard| and (|Wallkick| and (|Slidekick or |Backflip|)))
+(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Slidekick| or |Dive| or |Punch| or |Kick|))) or 
+(|!reasonable| and (|Backflip| or |Dive| or |Slidekick| or |Punch| or |Kick|))
 
 "Jump"
 	"Double Jump"

@@ -248,31 +248,38 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "|obscure| or |Double Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Wallkick|"
+        "Comments": "Obscure uses crazed crate to hop over wall or long jump to yellow flag then long jump backwards. Hard uses dive to crazed crate or BF WK or Jump/LJ from the stained glass opening.",
+        "Requirements": "((|!reasonable| or |Ground Pound|) and (|Double Jump| or |Sideflip| or (|Jump| and |Wallkick|) or (|Backflip| and (|Jump| or |Long Jump|)))) or (|!obscure| and ((|Long Jump| and |Wallkick|) or ((|Backflip| or |Long Jump| or |Jump|) and |Punch|))) or (|!hard| and (|Jump| or (|Long Jump| and |Dive|) or (|Backflip| and (|Wallkick| or |Dive|))))"
       },
       {
         "exists": true,
-        "Requirements": "(|hard| and (|Kick| or (|Double Jump| and |Dive|) or |Triple Jump|)) or (|Double Jump| and |Kick|) or (|Double Jump| and |Dive|) or |Long Jump|"
+        "Comments": "Hard is just some very tight jumps.",
+        "Requirements": "(|Long Jump| and (|Jump| or |Sideflip|)) or (|!reasonable| and ((|Long Jump| and |Wallkick|) or (|Double Jump| and (|Kick| or |Dive|)))) or (|!hard| and ((|Jump| and |Kick|) or |Triple Jump|))"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Obscure or Hard may use the crazed crate and come in from the top. Hard may also use difficult parkour.",
+        "Requirements": "((|Long Jump| or |Jump|) and (|Backflip| or |Wallkick| or |Sideflip|)) or (|!reasonable| and |Jump|) or (|!obscure| and (|Long Jump| and |Punch|)) or (|!hard| and ((|Backflip| and |Wallkick|) or ((|Long Jump| or |Sideflip|) and |Dive|)))"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Kick might be doable but it can't get it.",
+        "Requirements": "(|Jump| or |Long Jump| or |Backflip| or |Sideflip|) or (|!reasonable| and (|Slidekick| or |Dive|))"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Hard uses some lava boosts to get coins. Dive uses crazed crate to get on top of castle, dives over boxes to get red coin. Slidekick/punch uses crazed crate to get on castle wall then slidekick to build enough speed to run into pole. Slidekick over boxes to get red coin.",
+        "Requirements": "(|Jump| and |Sideflip| and |Long Jump|) or (|!reasonable| and |Backflip|) or (|!hard| and (|Dive| or (|Slidekick| and |Punch|)))"
       },
       {
         "exists": true,
-        "Requirements": "|Ground Pound| or (|obscure| and |Kick|)"
+        "Comments": "Kicking the big boo can be hard.",
+        "Requirements": "(|Ground Pound| and (|Jump| or |Backflip|)) or (|!reasonable| and |Ground Pound| and (|Long Jump| or |Sideflip|)) or (|!obscure| and |Ground Pound| and (|Slidekick| or |Kick|)) or (|!hard| and (|Kick| or (|Ground Pound| and |Dive|)))"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "The Deep into the woods star has a lot of coins in the boo place for attack moves to become reasonable Basic lava boost and mushroom pad coin grabs.",
+        "Requirements": "(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Slidekick| or |Dive| or |Punch| or |Kick|))) or (|!reasonable| and (|Backflip| or |Dive| or |Slidekick| or |Punch| or |Kick|))"
       }
     ],
     "Cannon": {
@@ -283,7 +290,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1|",
+    "Requirements": "|Key 1| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)",
     "Sign": {
       "exists": false
     }
@@ -327,7 +334,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1|",
+    "Requirements": "|Key 1| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Dive| or (|!reasonable| and |Slidekick|))",
     "Sign": {
       "exists": false
     }

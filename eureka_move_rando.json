@@ -146,27 +146,33 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "(|Double Jump| and |hard|) or (|Double Jump| and |Kick|) or (|Double Jump| and |Dive|) or (|Double Jump| and |Wallkick|) or (|Double Jump| and |Long Jump|) or (|Triple Jump|) or (|Wallkick| and |hard|) or(|Wallkick| and |Kick|) or (|Wallkick| and |Long Jump|) or (|Wallkick| and |Long Jump|) or (|Sideflip| and |Long Jump|) or (|Sideflip| and |Kick|)"
+        "Comments": "Lot of different combinations and possible tight jumps for this one. Hard is either very well placed double jumps or WK up the sand pillar where the star is.",
+        "Requirements": "(|Long Jump| and (|Wallkick| or |Sideflip|)) or (|!reasonable| and ((|Triple Jump| and (|Kick| or |Dive| or |Long Jump|))) or ((|Double Jump| and |Dive|) and (|Sideflip| or |Wallkick|)) or ((|Jump| and |Kick|) and (|Sideflip| or |Wallkick|))) or (|!obscure| and (|Triple Jump| or ((|Backflip| or |Double Jump|) and ((|Jump| and |Kick|) or |Long Jump| or (|Double Jump| and |Dive|))))) or (|!hard| and (|Wallkick| or |Double Jump|))"
       },
       {
         "exists": true,
-        "Requirements": "(|Long Jump| and |obscure|) or |Double Jump| or |Sideflip| or |Wallkick|"
+        "Comments": "Hard uses a BF WK tech or the support beam on the third platform near the fire shooters.",
+        "Requirements": "(|Double Jump| or ((|Sideflip| or (|Jump| and |Wallkick|)) and (|Long Jump| or (|Jump| and |Kick|)))) or (|!reasonable| and (|Sideflip| or ((|Jump| or |Long Jump|) and |Wallkick|))) or (|!hard| and (|Long Jump| or (|Backflip| and |Wallkick|) or (|Jump| and |Kick| and (|Slidekick| or |Dive|))))"
       },
       {
         "exists": true,
-        "Requirements": "|obscure| or |Double Jump| or |Backflip| or |Sideflip| or |Wallkick|"
+        "Comments": "Hard uses crazy WK tech or Long Jump burn up the lava sand to come in from the top. Obscure is to jump as soon as you hit the switch to grab the first box.",
+        "Requirements": "(|Double Jump| or ((|Backflip| or |Sideflip|) and |Jump|)) or (|!reasonable| and ((|Backflip| or |Sideflip|) or (|Jump| and |Wallkick|))) or (|!obscure| and |Jump|) or (|!hard| and (|Wallkick| or |Long Jump|))"
       },
       {
         "exists": true,
-        "Requirements": "(|Double Jump| and |obscure|) or |Triple Jump| or |Sideflip| or |Wallkick|"
+        "Comments": "Hard: Lava boost up to the side used to get to koopa race, lava boost to center pokey platform, kill pokey or backflip to get coins, lava boost to bridge coins, wallkick to star box, lava boost to open star box. Obscure double jump to grab the top long vertical plank instead of wallkicking.",
+        "Requirements": "(|Wallkick| and ((|Long Jump| or |Sideflip|) or (|Jump| and |Kick|))) or (|!reasonable| and (|Triple Jump| or (|Sideflip| and (|Dive| or |Jump|)))) or (|!obscure| and |Double Jump|) or (|!hard| and (|Wallkick| and ((|Slidekick| or |Dive| or |Punch| or |Kick|) or |Backflip|)))"
       },
       {
         "exists": true,
-        "Requirements": "|Double Jump| or (|Long Jump| and |obscure|) or (|Sideflip| and |obscure|) or |Wallkick|"
+        "Comments": "Obscure uses lava boost to top from koopa race side then long jump to red coin on pillar. Hard uses difficult backflip WKs.",
+        "Requirements": "(|Double Jump|) or (|!reasonable| and (|Sideflip| or (|Jump| and |Wallkick|))) or (|!obscure| and |Long Jump|) or (|!hard| and (|Wallkick| and |Backflip|))"
       },
       {
         "exists": true,
-        "Requirements": "|obscure| or |Double Jump| or |Long Jump| or |Wallkick| or |Dive|"
+        "Comments": "Obscure/reasonable uses lava boosts instead of WK.",
+        "Requirements": "(|Jump| and |Wallkick| and (|Long Jump| or |Dive|)) or (|!reasonable| and (|Double Jump| or |Long Jump| or (|Jump| and (|Wallkick| or |Dive| or |Sideflip|)))) or (|!obscure| and (|Jump| or (|Sideflip| and |Dive|)))"
       },
       {
         "exists": true,
@@ -182,7 +188,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Stars:5|",
+    "Requirements": "|Stars:5| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Kick|)",
     "Sign": {
       "exists": false
     }
@@ -191,31 +197,38 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Obscure is rollout to owl tree then dive to tree twice to spawn and grab owl. Hard WK uses dirt mound to backslide getup onto flyguy for shell, then flyguy near top of p switch to grab star directly.",
+        "Requirements": "(|Jump| or |Long Jump| or |Sideflip|) or (|!obscure| and |Dive|) or (|!hard| and (|Shell| and |Slidekick| or |Wallkick| or |Kick|))"
       },
       {
         "exists": true,
-        "Requirements": "|Shell|"
+        "Comments": "Obscure uses enemies and rollouts to get to the shellbox. Hard uses dirt mount backslide getup onto flyguy to get shellbox.",
+        "Requirements": " |Shell| and ((|Jump| or |Long Jump| or |Backflip| or |Sideflip|) or (|!obscure| and (|Slidekick| or |Dive| or |Kick|)) or |!hard|)"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Obscure/hard: Shellbox strats from previous stars. Owl dive strat from star 1. Backflip up pillars and use flyguy to get secret near big eye slide.",
+        "Requirements": "(|Jump| or |Sideflip| or (|Long Jump| and |Backflip|)) or (|!reasonable| and (|Long Jump| and |Wallkick|) or ((|Backflip| or |Long Jump|) and |Shell|)) or (|!obscure| and (|Shell| and (|Slidekick| or |Kick| or |Dive|))) or (|!hard| and (|Dive| or |Shell| or |Backflip|))"
       },
       {
         "exists": true,
-        "Requirements": "(hard| and |Shell|) or |Metal Cap|"
+        "Comments": "Hard requires good thwomp rng but it is doable with any jump and shell.",
+        "Requirements": "(|Shell| and (|Metal Cap| or |!hard|) and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)) or (|!reasonable| and |Metal Cap| and (|Jump| or |Sideflip| or |Backflip| or (|Long Jump| and |Wallkick|))) or "
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Obscure/Hard use shell strats from star 1.",
+        "Requirements": "(|Long Jump| or (|Shell| and (|Jump| or |Backflip| or |Sideflip|) or |Double Jump| or (|Jump| and (|Kick| or |Dive|)))) or (|!reasonable| and (|Jump| or |Sideflip|)) or (|!obscure| and (|Shell| and (|Dive| or |Kick| or |Slidekick|))) or (|!hard| and |Shell|)"
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Comments": "Obscure uses shell strats and or owl strats from star 1 with a slidekick to get metal cap. Hard uses a glitch coming out of the drain water pipe to clip up and get halfway into the wall, walk into water out of bounds and swim to star.",
+        "Requirements": "(|Metal Cap| and (|Jump| or (|!reasonable| and (|Long Jump| and (|Sideflip| or |Wallkick| or |Shell|))) or (|!obscure| and ((|Dive| and (|Slidekick| or |Long Jump|)) or (|Shell| and (|Dive| or |Kick| or |Slidekick|)))))) or (|!hard|)"
       },
       {
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Obscure uses shell strats from star and owl strats from star 1. Hard need to use flyguy to get up to eyeball area, need to clip into water to collect the 7, need to slidekick to get 4 reds getting a specific red last so you can claim star at right height.",
+        "Requirements": "(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Shell|))) or (|!obscure| and (|Dive| or (|Shell| and |Slidekick| or |Kick|))) or (|!hard| and (|Wallkick| and (|Slidekick or |Backflip|)))"
       }
     ],
     "Cannon": {
@@ -226,7 +239,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Stars:10|",
+    "Requirements": "|Stars:10| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Kick|)",
     "Sign": {
       "exists": false
     }

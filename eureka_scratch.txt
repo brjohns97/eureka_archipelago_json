@@ -1,47 +1,28 @@
-at least need:
-Up the platform:
-	obscure:
-		Double Jump
-		Backflip
-	reasonable
-		Triple Jump
-	por:
-		Jump + WK
-		Long Jump + WK
-		Sideflip
+no moves st3:
+	32
+dve only st4:
+	100+ (obscure)
+wk only st5:
+	61?
+wk + slidekick st6:
+	102... its crazy man
+	need to use flyguy to get up to eyeball area, need to clip into water to collect the 7, need to slidekick to get 4 reds getting a specific red last so you can claim star at right height
+any jump st7:
+	52
+backflip gp :
+	100+(POR)
+Long Jump only :
+	100+ (POR)
+Jump only :
+	100+ (POR)
+Sideflip only :
+	100+ (POR)
+Backflip shell st8:
+	100+ (POR)
 
-first gap
-	hard:
-		Double Jump
-	obscure:
-		Triple Jump
-		Jump + WK
-		Sideflip + WK
-	reasonable:
-		Jump + Kick
-	POR:
-		Double Jump + Dive
-		Doubel Jump + Kick
-		Long Jump
-
-second gap:
-	obscure:
-		Double Jump
-	reasonable:
-		Triple Jump
-		Jump + Kick
-		Double Jump + Dive
-	POR:
-		Long Jump
-
-
-(|!reasonable| and ()) or 
-(|!obscure| and (|Triple Jump| or (|Backflip| and ((|Jump| and |Kick|) or |Long Jump| or (|Double Jump| and |Dive|))))) or 
-(|!hard| and (|Wallkick| or |Double Jump|))
-
-"Comments": "Under the assumption that snowmen killing is obscure"
-
-        "Requirements": "|Kick| or |Long Jump| or |Double Jump| or |Wallkick| or |obscure|"
+(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Shell|))) or 
+(|!obscure| and (|Dive| or (|Shell| and |Slidekick| or |Kick|))) or 
+(|!hard| and (|Wallkick| and (|Slidekick or |Backflip|)))
 
 "Jump"
 	"Double Jump"
@@ -62,3 +43,18 @@ second gap:
 "Key 1"
 "Key 2"
 "Cannons"
+
+Strict - Everything that could be considered the intended requirements will be required. This will require certain items even if its more likely that a casual would skip said items than actually use them to get the star, since the skip is either easier to find or easier to perform than the intended path.
+Reasonable - Every skip that a casual could reasonably find in normal gameplay is considered in logic, assuming it is not significantly more difficult than expected for the hack it is in.
+Obscure - Skips that may be hard to find on your own but not necessarily difficult to perform, compared to the hacks average difficulty, are considered in logic
+Hard - Any skips that are relatively hard to perform (and usually hard to find as a result), compared to the average difficulty of the hack, are considered in logic
+
+st2:
+	hard:
+		me
+	obscure:
+		me
+	reasonable:
+		me
+	POR:
+		me

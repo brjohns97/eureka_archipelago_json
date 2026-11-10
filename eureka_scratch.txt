@@ -1,27 +1,15 @@
-st2:
-	19 no moves POR
-st3:
-	37 no moves reasonable
-st4:
-	55 no moves obscure
-st5:
-	70 no moves hard
-st6:
-	62 attack moves only (not GP)
-st7:
-	73 dive POR
-	89 dive reasonable
-	100+ dive obscure
-st8:
-	92 atk moves obscure
-st9:
-	100+ non backflip jumps
+no moves POR st2:
+	20
+no moves reasonable st3:
+	40?
+lava boostable:
+	103?+
 
-(|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and (|Ground Pound| or |Slidekick| or |Dive| or |Punch| or |Kick|))) or 
-(|!reasonable| and (|Backflip| or |Dive| or |Slidekick| or |Punch| or |Kick|))
+
+"Comments": "All involve getting to eye platform before bridge. Hard: Rollout Jump Dive to get to the eyeball platform before bridge. BF WK is obscure here because you can retry easily.",
 
 "Jump"
-	"Double Jump"
+	"Double Jump"-
 		"Triple Jump"
 "Long Jump"
 "Backflip"

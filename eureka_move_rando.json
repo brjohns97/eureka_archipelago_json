@@ -299,31 +299,37 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "All involve getting to eye platform before bridge. Hard: Rollout Jump Dive to get to the eyeball platform before bridge. BF WK is obscure here because you can retry easily.",
+        "Requirements": "((|Triple Jump| and |Dive|) or |Long Jump|) or (|!reasonable| and ((|Double Jump| and (|Kick| or |Dive|)) or (|Wallkick| and (|Sideflip| or |Jump|)))) or (|!obscure| and (|Double Jump| or (|Backflip| and |Wallkick|))) or (|!hard| and |Jump| and |Dive|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Can do a sideflip instead of using slope to jump.",
+        "Requirements": "|Wallkick| and (|Jump| or (|!reasonable| and |Sideflip|))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Can use the teleporter located near start behind the breakable box with a 1 up and lava boosts to get secrets. Can walk off GP with no jump. For hard you need to get speed with RO or SK then WK up to the second box, then WK the 3rd box a frame or 2 before it disapears.",
+        "Requirements": "(|Long Jump| and (|Jump| and (|Backflip| or |Sideflip| or |Double Jump|))) or (|!reasonable| and (((|Jump| or |Backflip| or |Sideflip|) and (|Ground Pound| or |Punch| or |Kick|)) or |Long Jump|)) or (|!hard| and |Wallkick| and (|Ground Pound| or |Punch| or |Kick|) and (|Slidekick| or |Dive|))"
       },
       {
         "exists": true,
-        "Requirements": "|Vanish Cap|"
+        "Comments": "Hard: Go up spiral, WK to open VC box, go up spiral, fall down and WK up, WK/rungrab,lavaboost to star.",
+        "Requirements": "(|Vanish Cap| and |Wallkick| and ((|Jump| or |Long Jump|) or (|!reasonable| and |Sideflip|) or (|!hard|)))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Requirements": "|Vanish Cap| and (|Jump| or |Long Jump| or |Sideflip| or |Backflip|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Hard: break box then bounce off bat to kill and grab star in one go or dive/slidekick bat and use dive/slidekick with fwoosh to grab star. Reasonable is long jump from above for star or jump using ice speed.",
+        "Requirements": "(|Sideflip| or |Backflip| or |Double Jump|) or (|!reasonable| and (|Jump| or |Long Jump|)) or (|!hard| and (|Ground Pound| or |Punch| or |Kick| or |Dive| or |Slidekick|))"
       },
       {
         "exists": true,
-        "Requirements": "|Double Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Wallkick| or (|obscure| and (|Punch| or |Kick|)) or |Ground Pound| or |Vanish Cap|"
+        "Comments": "Hard has a lot of very tight tricks. Uses tricks from previous stars. Some of them are exactly 100. Remember to get the gold bat coin.",
+        "Requirements": "(|Double Jump| or |Long Jump| or |Backflip| or |Sideflip| or (|Jump| and (|Wallkick| or |Punch| or |Ground Pound| or |Kick| or |Vanish Cap|))) or (|!hard| and (|Ground Pound| or (|Wallkick| and (|Vanish Cap| or |Punch| or |Kick|)) or ((|Dive| or |Slidekick|) and (|Punch| or |Kick|))))"
       }
     ],
     "Cannon": {
@@ -343,27 +349,33 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "All reasonable would use lava boost and/or flyguy. Obscure LJ uses double lava boost to collect 5 coins and then long jumps. Hard is wackadoodle, lots of flyguy manip.",
+        "Requirements": "(|Wallkick| and (|Jump| or |Long Jump| or |Sideflip|)) or (|!reasonable| and (|Jump| or |Sideflip| or |Backflip|)) or (|!obscure| and (|Long Jump|)) or (|!hard| and ((|Metal Cap| and (|Slidekick| or |Dive| or |Wallkick|)) or (|Wallkick| and |Kick|)))"
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Comments": "Obscure TJ WK on the last lava pillar into lava fall into lava rock to boost yourself up, grab coins to heal and lava boost to star. Or lava boost into metal cap box. Hard uses WK on the last and second to last lava rock pillar.",
+        "Requirements": "(|Metal Cap| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)) or (|!obscure| and ((|Triple Jump| and |Wallkick|) or |Metal Cap|)) or (|!hard| and |Wallkick| and (|Jump| or Long Jump| or |Sideflip|))"
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Comments": "Obscure no moves requires using the lava boost to get the secret and some coins. The reasonable allows you to get easier to reach coins without needing lava boost.",
+        "Requirements": "(|Metal Cap| and (|Jump| or |Backflip| or |Sideflip|)) or (|!reasonable| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or |Punch| or |Kick|)) or (|!obscure|)"
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Comments": "Need a jump and WK. Hard BF WK off of last wooden ring.",
+        "Requirements": "(|Wallkick| and (|Jump| or |Long Jump| or |Sideflip|)) or (|!hard| and |Wallkick| and |Backflip|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Obscure and reasonable uses ordered coin grabs and lava boosts.",
+        "Requirements": "(((|Long Jump| and (|Sideflip| or |Wallkick|)) or (|Jump| and |Kick|) or (|Double Jump| and |Dive|) or |Triple Jump|) or (|Metal Cap| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|))) or (|!reasonable| and (|Jump| or |Long Jump| or |Sideflip| or |Backflip|)) or (|!obscure| and (|Slidekick| or |Dive|)) or "
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Comments": "Reasonable to lava boost and jump up pillars. Hard does lava two boosts and then WK into pipe, to onto red pipe, WK to box star (very hard), open it, grab it.",
+        "Requirements": "((|Metal Cap| or |!reasonable|) and (|Sideflip| or |Double Jump| or (|Jump| and |Wallkick|) or (|Long Jump| and (|Wallkick| or |Backflip| or (|Jump| and (|Kick| or |Ground Pound|)))))) or (|!hard| and |Wallkick|)"
       },
       {
         "exists": true,
@@ -378,7 +390,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1|",
+    "Requirements": "|Key 1| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)",
     "Sign": {
       "exists": false
     }

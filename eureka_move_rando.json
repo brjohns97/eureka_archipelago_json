@@ -379,7 +379,8 @@
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Lots of lava boosting potential. You can lava boost to open the metal cap below spawn. Most of the red coin platforms you can just run off and not burn after grabbing coin.",
+        "Requirements": "(|Jump| or |Sideflip| or (|Backflip| and |Ground Pound|) or (|Long Jump| and (|Wallkick| or |Punch| or |Kick| or |Backflip|))) or (|!reasonable| and (|Long Jump| or |Backflip|)) or (|!obscure| and (|Metal Cap| and (|Slidekick| or |Dive| or |Punch| or |Kick|))) or (|!hard| and (|Metal Cap| or |Punch| or |Kick| or |Ground Pound| or |Wallkick| or |Dive| or |Slidekick|))"
       }
     ],
     "Cannon": {
@@ -399,31 +400,38 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Obscure can do rollouts over fire shooters. Hard dive uses flyguy and WK to get to pipe or just a jump and have koopa push you to keep up.",
+        "Requirements": "(|Long Jump| or (|Jump| and |Dive|)) or (|!obscure| and (|Dive| and |Sideflip|)) or (|!hard| and (|Jump| or (|Dive| and (|Wallkick| or |Backflip|))))"
       },
       {
         "exists": true,
-        "Requirements": "|Vanish Cap|"
+        "Comments": "Obscure TJ WC clips in through the bottom and uses TJ WG bounce off wall to get out. Other obscure and hard can WK inside shelf to get through holes. Hard bypasses VC using WK on the left side of shelf to get in. Need any jump to grab star.",
+        "Requirements": "(|Vanish Cap| and |Wallkick| and (|Jump| or |Long Jump| or (|!obscure| and (|Sideflip| or |Backflip|)))) or (|!obscure| and |Triple Jump| and |Wing Cap|) or (|!hard| and |Wallkick| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|))"
       },
       {
         "exists": true,
-        "Requirements": "|Wing Cap|"
+        "Comments": "Hard DJ dive quickly after DJ with WC on to make it from poker platform, moving wooden/concrete platform, boo pillar surrounded by blue lava.",
+        "Requirements": "|Wing Cap| and (|Triple Jump| or (|!hard| and |Double Jump| and |Dive|))"
       },
       {
         "exists": true,
-        "Requirements": "|Vanish Cap|"
+        "Comments": "SK and Dive are obscure. The left side of the VC platform is easy to RO onto. Can be done without VC.",
+        "Requirements": "(|Vanish Cap| and (|Jump| or |Long Jump| or |Sideflip|)) or (|!reasonable| and (|Long Jump| or (|Backflip| and |Vanish Cap|) or (|Jump| and |Kick|))) or (|!obscure| and |Vanish Cap| and (|Slidekick| or (|Dive| and |Kick|))) or (|!hard| and (|Jump| or |Sideflip|))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Puting Dive and Kick as hard just because its easy to die.",
+        "Requirements": "(|Jump| or |Long Jump| or |Backflip| or |Sideflip|) or (|!reasonable| and (|Slidekick| or |Wallkick| or |Kick|)) or (|!hard| and |Dive| or |Kick|)"
       },
       {
         "exists": true,
-        "Requirements": "|Wing Cap| and |Vanish Cap|"
+        "Comments": "Can use TJ WC to clip through the bottom of island into the pillar with the star. Then go to the opposite corner and do TJ. GP makes it easier.",
+        "Requirements": "(|Triple Jump| and |Wing Cap| and (|Vanish Cap| or (|!hard| or (|!obscure| and |Ground Pound|))))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Reasonable walkoffs to platforms. Use the jumping mushroom and remember there are coins in the flowers with koopas. WK GP might be possible but would be crazy.",
+        "Requirements": "|Jump| or |Sideflip| or |Backflip| or (|Long Jump| and (|Slidekick| or |Dive| or |Punch| or |Kick| or (|Wallkick| and |Vanish Cap|))) or (|!reasonable| and (|Long Jump| or |Slidekick| or |Dive| or |Punch| or |Kick|))"
       }
     ],
     "Cannon": {
@@ -434,7 +442,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1|",
+    "Requirements": "|Key 1| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)",
     "Sign": {
       "exists": false
     }
@@ -443,42 +451,49 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "|Course 10 Cannon|"
+        "Comments": "Hard lava boost up the other tower, from the bridge, take the lava on the right but boost left. Obscure can use metal cap and three lava boosts or BF and one lava boost to cannon.",
+        "Requirements": "((|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and |!obscure|)) and |Course 10 Cannon|) or (|!obscure| and |Metal Cap| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)) or (|!hard| and (|Jump| or |Backflip| or |Sideflip| or |Long Jump|))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Reasonable and Obscure use lava boosts or some moderate gap jumping skill. Can WK the side with 8 circle coins. BF also uses flyguy to get to the starbox. Sideflip I found too hard to close the gab.",
+        "Requirements": "((|Jump| and (|Dive| or |Kick| or |Long Jump|)) or |Double Jump| or (|Long Jump| and (|Backflip| or |Sideflip|))) or (|!reasonable| and (|Jump| or |Long Jump| (|Backflip| and |Wallkick|) or (|Sideflip| and (|Wallkick| or |Dive|)))) or (|!hard| and |Sideflip|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "BF requires some lava boosting and Flyguy drifting. LJ WK with thwomp can be done to get up the tower with the star.",
+        "Requirements": "(|Jump| or |Sideflip| or (|Long Jump| and |Backflip|)) or (|!reasonable| and ((|Long Jump| and |Wallkick|) or |Backflip|))"
       },
       {
         "exists": true,
-        "Requirements": "|Metal Cap|"
+        "Requirements": "|Metal Cap| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Requirements": "(|Long Jump| or |Double Jump| or (|Jump| and (|Kick| or |Dive|)) or (|Sideflip| and |Dive|)) or (|!reasonable| and (|Jump| or |Sideflip|)) or (|!hard| and |Backflip| and |Wallkick|)"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Grabbing the actual star is the bottleneck. BF WK the last spindel and dive.",
+        "Requirements": "((|Double Jump| and |Kick|) or (|Triple Jump| and |Dive|) or (|Jump| and |Long Jump|)) or (|!reasonable| and (|Long Jump| or (|Double Jump| and |Dive|))) or (|!hard| and (|Triple Jump|) or (|Jump| and |Kick|) or (|Backflip| and |Wallkick| and |Dive|))"
       },
       {
         "exists": true,
-        "Requirements": ""
+        "Comments": "Backflip obscure involves lava burn getting 5 coins, killing money bags, flyguy twirling, walk slide off into cloud red with 8 coins.",
+        "Requirements": "(|Jump| or |Long Jump| or |Sideflip| or (|!reasonable| and (|Backflip| and (|Ground Pound| or |Punch| or |!obscure|))))"
       }
     ],
     "Cannon": {
       "exists": true,
-      "Requirements": ""
+      "Comments": "Obscure can lava boost up to him.",
+      "Requirements": "|Jump| or |Long Jump| or |Sideflip| or (|Backflip| and ((|!reasonable| and (|Dive| or |Slidekick|)) or |!obscure|)"
     },
     "Troll Star": {
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1| and |Key 2|",
+    "Requirements": "|Key 1| and |Key 2| and ((|Jump| or |Long Jump| or |Backflip| or |Sideflip|) or (|!reasonable| and (|Dive| or |Slidekick|)) or (|!obscure| and |Kick|))",
+    "Comments": "Obscure entry can use the mushroom pad with a timed jump after landing and then kick.",
     "Sign": {
       "exists": false
     }
@@ -486,7 +501,7 @@
   "Course 11": {
     "Stars": [
       {
-        // Assume this is top star
+        // Assume this is box star
         "exists": true,
         "Requirements": "|hard| or |Wallkick|"
       },
@@ -496,7 +511,7 @@
         "Requirements": "NONE"
       },
       {
-        // Assume this is midway star
+        // Assume this is other top star
         "exists": true,
         "Requirements": "(|hard| and (|Dive| or |Long Jump|)) or |Wallkick|"
       },
@@ -521,7 +536,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "",
+    "Requirements": "|Jump| or |Long Jump| or |Backflip| or |Sideflip|",
     "Sign": {
       "exists": false
     }
@@ -1020,7 +1035,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Key 1| and |Wallkick|",
+    "Requirements": "|Key 1| and |Wallkick| and (|Jump| or |Long Jump| or |Sideflip| or (|!obscure| and |Backflip|))",
     "Sign": {
       "exists": false
     }

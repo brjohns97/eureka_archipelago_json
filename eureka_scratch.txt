@@ -1,10 +1,10 @@
-no moves POR st2:
-	20
-no moves reasonable st3:
-	40?
-lava boostable:
-	103?+
+any jump st1:
+	52
+any jump no backflip st2:
 
+
+|Wallkick| or 
+(|!hard| and ((|Jump| and (|Dive| or |Long Jump|)) or (|Dive| and |Wallkick|)))
 
 "Comments": "All involve getting to eye platform before bridge. Hard: Rollout Jump Dive to get to the eyeball platform before bridge. BF WK is obscure here because you can retry easily.",
 

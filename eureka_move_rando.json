@@ -503,17 +503,20 @@
       {
         // Assume this is box star
         "exists": true,
-        "Requirements": "|hard| or |Wallkick|"
+        "Comments": "Hard uses jump, long jump, or sideflip to come in form the red coin pillar onto the yellow block. Can any jump up the red arrow slope. Backflips on the pendulums and block as it rotates.",
+        "Requirements": "(|Wallkick| and (|Jump| or |Long Jump| or |Sideflip|)) or (|!hard| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip|))"
       },
       {
         // Assume this is red coin star
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Long Jump and Sideflip pretty annoying.",
+        "Requirements": "|Jump| or |Backflip| or (|!hard| and (|Long Jump| or |Sideflip|))"
       },
       {
         // Assume this is other top star
         "exists": true,
-        "Requirements": "(|hard| and (|Dive| or |Long Jump|)) or |Wallkick|"
+        "Comments": "Hard can use heave-ho and dive/WK or jumps a precise pole dove to avoid amps or a long jump from the other box star platform. Also strats from box star and a long jump.",
+        "Requirements": "((|Jump| or |Long Jump| or |Sideflip|) and |Wallkick|) or (|!hard| and (|Long Jump| or (|Jump| and |Dive|) or ((|Dive| or |Backflip|) and |Wallkick|)))"
       },
       {
         "exists": false
@@ -544,19 +547,22 @@
   "Course 12": {
     "Stars": [
       {
-        // assume star in the blackhole thingy???
+        // assume wiggler star
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Hard: use chuckya do get on ledge, walk down into hole, bounce on wiggler from above, lava boost to bounce on him two more times, get coins, run into center fire to collect star. Lava burning onto him is reasonable.",
+        "Requirements": "(|Jump| or (|!reasonable| and (|Long Jump| or |Backflip| or |Sideflip| or |Dive| or |Slidekick|)) or |!hard|)"
       },
       {
         // assume red coin
         "exists": true,
-        "Requirements": "(|obscure| and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick| or |LongJump|)) or ((|Kick| or |Long Jump|) and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick|))"
+        "Comments": "TODO need to REDO.",
+        "Requirements": "(|!hard| and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick| or |LongJump|)) or ((|Kick| or |Long Jump|) and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick|))"
       },
       {
         // assume star at the top of wheel thingy
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Hard uses both lakitus to backflip off of.",
+        "Requirements": "|Jump| or |Long Jump| or |Sideflip| or (|!hard and |Backflip|)"
       },
       {
         "exists": false
@@ -579,7 +585,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "",
+    "Requirements": "|Jump| or |Sideflip| or |Backflip| or (|!reasonable| and |Long Jump|)",
     "Sign": {
       "exists": false
     }

@@ -1,6 +1,16 @@
-(|Jump| or |Backflip|) or 
-(|!reasonable| and |Sideflip|) or 
-(|!hard| and |Long Jump|)
+poison star
+
+
+
+|Wallkick| and 
+(((|Metal Cap| or |!reasonable|) and (|Long Jump| or (|Jump| and |Kick|) or (|Double Jump| and |Dive|))) or 
+(|!reasonable| and ((|Jump| and |Dive|) or |Triple |Jump|)) or 
+(|!obscure| and |Double Jump|) or 
+(|!hard| and (|Metal Cap| and |Backflip|)))
+
+
+|Wallkick| and 
+(|obscure| and (|Double Jump| or |Triple Jump| or |Long Jump| or |Dive| or |Kick|) or (|Metal Cap| and (|Long Jump| or |Kick|)))
 
 
 

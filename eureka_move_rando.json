@@ -555,8 +555,8 @@
       {
         // assume red coin
         "exists": true,
-        "Comments": "TODO need to REDO.",
-        "Requirements": "(|!hard| and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick| or |LongJump|)) or ((|Kick| or |Long Jump|) and (|Double Jump| or |Backflip| or |Sideflip| or |Wallkick|))"
+        "Comments": "Obscure long jumps from the wheel star. Hard is some difficult jumps or WK. Expert uses WK from red stairs to get archway RC and tight WK for other RC, RC order matters, grab star WK off wheel then star platform then yellow wall.",
+        "Requirements": "(|Double Jump| and |Kick|) or (|Long Jump| and (|Sideflip| or |Backflip| or |Triple Jump|)) or (|!reasonable| and (((|Jump| or |Sideflip| or |Long Jump|) and |Wallkick|) or (|Jump| and |Kick| and (|Backflip| or |Sideflip|)) or (|Long Jump| and |Double Jump|))) or (|!obscure| and |Long Jump|) or (|!hard| and ((|Jump| and (|Backflip| or |Sideflip|)) or (|Wallkick| and |Backflip|) or |Double Jump|)) or (|!expert| and ((|Wallkick| and (|Dive| or |Slidekick| or |Kick|)) or |Sideflip|))"
       },
       {
         // assume star at the top of wheel thingy
@@ -963,19 +963,22 @@
   "Metal Cap": {
     "Stars": [
       {
-        "exists": true,
         //assuming this is the 5 coin secret one. Can technically get into this with spider jump wall kick but it is very very rng.
-        "Requirements": "|Wallkick| and ((|obscure| and (|Double Jump| or |Triple Jump| or |Long Jump| or |Dive| or |Kick|) or (|Metal Cap| and (|Long Jump| or |Kick|)))"
+        "exists": true,
+        "Comments": "No skeeter necessary. May need to order coins in a reasonable way to get without MC.",
+        "Requirements": "|Wallkick| and (((|Metal Cap| or |!reasonable|) and (|Long Jump| or (|Jump| and |Kick|) or (|Double Jump| and |Dive|))) or (|!reasonable| and ((|Jump| and |Dive|) or |Triple |Jump|)) or (|!obscure| and |Double Jump|) or (|!hard| and (|Metal Cap| and |Backflip|)))"
       },
       {
         // assume this is the red coin one
         "exists": true,
-        "Requirements": "(|hard| and |Wallkick|) or (|obscure| and (|Double Jump| or |Metal Cap| or (|Sideflip| and |Wallkick|)) or (|Triple Jump| or |Long Jump| or |Dive| or |Kick|)"
+        "Comments": "Obscure or Hard may use the skeeter to get around.",
+        "Requirements": "((|Metal Cap| or |!reasonable|) and (|Long Jump| or |Triple Jump| or (|Jump| and |Kick|) or (|Double Jump| and |Dive|))) or (|!reasonable| and (((|Sideflip| or |Jump|) and |Dive|) or |Double Jump|)) or (|!obscure| and (|Jump| or (|Sideflip| and |Wallkick|) or (|Dive| and |Metal Cap|))) or (|!hard| and (|Dive| or |Sideflip|)) or (|!expert| and ((|Wallkick| and |Backflip|) or |Slidekick|))"
       },
       {
         // assume this is the walkway one
         "exists": true,
-        "Requirements": "NONE"
+        "Comments": "Once in level, do not need anything.",
+        "Requirements": ""
       },
       {
         "exists": false
@@ -998,7 +1001,7 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "",
+    "Requirements": "|Stars:10| and (|Jump| or |Long Jump| or |Backflip| or |Sideflip| or |Slidekick| or |Dive| or (|!obscure| and |Kick| and |Punch|))",
     "Sign": {
       "exists": false
     }
@@ -1150,10 +1153,11 @@
         "Requirements": "|Key 1|"
       },
       {
+        // Can technically do this with only insane spider jumps. First spider jump is fairly easy so I say obscure.
         "exists": true,
         "Level": "Metal Cap",
-        "Requirements": "|hard| or (|obscure| and (|Double Jump| or |Metal Cap| or (|Sideflip| and |Wallkick|)) or (|Triple Jump| or |Long Jump| or |Dive| or |Kick|)"
-        // Can technically do this with only insane spider jumps. First spider jump is fairly easy so I say obscure.
+        "Comments": "Expert, Hard, and Obscure may use skeeter to get around.",
+        "Requirements": "(|Long Jump| or |Triple Jump| or (|Jump| and |Kick|) or (|Double Jump| and |Dive|)) or (|!reasonable| and (((|Sideflip| or |Jump|) and |Dive|) or |Double Jump|)) or (|!obscure| and (|Jump| or (|Sideflip| and |Wallkick|) or |Dive|)) or (|!hard| and (|Sideflip| or (|Wallkick| and |Backflip|))) or (|!expert| and |Slidekick|)"
       },
       {
         "exists": false

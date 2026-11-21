@@ -1,20 +1,10 @@
-poison star
 
+((|Long Jump| or |Double Jump| or (|Jump| and (|Kick| or |Dive|))) and |Wallkick|) or 
+(|!reasonable| and |Jump| and |Wallkick|) or 
+(|!obscure| and ((|Wallkick| and (|Backflip| or |Sideflip|)) or |Jump|)) or 
+(|!expert| and ((|Sideflip| and |Dive|) or (|Long Jump|)))
 
-
-|Wallkick| and 
-(((|Metal Cap| or |!reasonable|) and (|Long Jump| or (|Jump| and |Kick|) or (|Double Jump| and |Dive|))) or 
-(|!reasonable| and ((|Jump| and |Dive|) or |Triple |Jump|)) or 
-(|!obscure| and |Double Jump|) or 
-(|!hard| and (|Metal Cap| and |Backflip|)))
-
-
-|Wallkick| and 
-(|obscure| and (|Double Jump| or |Triple Jump| or |Long Jump| or |Dive| or |Kick|) or (|Metal Cap| and (|Long Jump| or |Kick|)))
-
-
-
-"Comments": "All involve getting to eye platform before bridge. Hard: Rollout Jump Dive to get to the eyeball platform before bridge. BF WK is obscure here because you can retry easily.",
+"Comment": "Insert comment here.",
 
 "Jump"
 	"Double Jump"-
@@ -36,10 +26,11 @@ poison star
 "Key 2"
 "Cannons"
 
-Strict - Everything that could be considered the intended requirements will be required. This will require certain items even if its more likely that a casual would skip said items than actually use them to get the star, since the skip is either easier to find or easier to perform than the intended path.
-Reasonable - Every skip that a casual could reasonably find in normal gameplay is considered in logic, assuming it is not significantly more difficult than expected for the hack it is in.
-Obscure - Skips that may be hard to find on your own but not necessarily difficult to perform, compared to the hacks average difficulty, are considered in logic
-Hard - Any skips that are relatively hard to perform (and usually hard to find as a result), compared to the average difficulty of the hack, are considered in logic
+strict - Everything that could be considered the intended requirements will be required. This will require certain items even if its more likely that a casual would skip said items than actually use them to get the star, since the skip is either easier to find or easier to perform than the intended path.
+reasonable - Every skip that a casual could reasonably find in normal gameplay is considered in logic, assuming it is not significantly more difficult than expected for the hack it is in.
+obscure - Skips that may be hard to find on your own but not necessarily difficult to perform, compared to the hacks average difficulty, are considered in logic
+hard - Any skips that are relatively hard to perform (and usually hard to find as a result), compared to the average difficulty of the hack, are considered in logic
+expert
 
 st2:
 	hard:

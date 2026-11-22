@@ -1,8 +1,13 @@
 
-((|Long Jump| or |Double Jump| or (|Jump| and (|Kick| or |Dive|))) and |Wallkick|) or 
-(|!reasonable| and |Jump| and |Wallkick|) or 
-(|!obscure| and ((|Wallkick| and (|Backflip| or |Sideflip|)) or |Jump|)) or 
-(|!expert| and ((|Sideflip| and |Dive|) or (|Long Jump|)))
+
+(|@B3 Entrance|) and (((|Jump| or |Long Jump| or |Sideflip|) and (|Wallkick| or |!obscure|) and (|Dive| or |Punch|)) or (|!expert| and ((|Punch| and (|Slidekick| or |Backflip|)) or |Dive|)))
+
+
+Bowser Finale
+
+((|Jump| or |Long Jump| or |Sideflip|) and (|Wallkick| or |!obscure|)) or (|!expert| and ((|Slidekick| or |Backflip|) or |Dive|))
+
+
 
 "Comment": "Insert comment here.",
 

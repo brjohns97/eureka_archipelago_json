@@ -33,7 +33,7 @@
     ],
     "Cannon": {
       "exists": true,
-      "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR ((|Double Jump| OR |Sideflip|) AND |Wallkick|) OR (|!reasonable| AND (|Triple Jump| OR (|Wallkick| AND |Jump|))) OR (|!obscure| AND (|Jump| OR |Shell|))"
+      "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR ((|Double Jump| OR |Sideflip|) AND |Wallkick|) OR (|!reasonable| AND (|Triple Jump| OR (|Wallkick| AND |Jump|))) OR (|!obscure| AND (|Jump| OR |Shell|)) OR (|!expert| and |Dive|)"
     },
     "Troll Star": {
       "exists": false,

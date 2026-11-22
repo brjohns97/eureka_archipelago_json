@@ -1,11 +1,8 @@
 
 
-(|@B3 Entrance|) and (((|Jump| or |Long Jump| or |Sideflip|) and (|Wallkick| or |!obscure|) and (|Dive| or |Punch|)) or (|!expert| and ((|Punch| and (|Slidekick| or |Backflip|)) or |Dive|)))
 
 
-Bowser Finale
-
-((|Jump| or |Long Jump| or |Sideflip|) and (|Wallkick| or |!obscure|)) or (|!expert| and ((|Slidekick| or |Backflip|) or |Dive|))
+((|Jump| AND (|Dive| OR |Kick| OR |Long Jump|)) OR |Double Jump| OR (|Long Jump| AND (|Backflip| OR |Sideflip|))) OR (|!reasonable| AND (|Jump| OR |Long Jump| OR (|Backflip| AND |Wallkick|) OR (|Sideflip| AND (|Wallkick| OR |Dive|)))) OR (|!hard| AND |Sideflip|)
 
 
 

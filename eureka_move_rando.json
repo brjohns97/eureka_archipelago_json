@@ -3,37 +3,44 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "|Jump| OR |Backflip| OR |Sideflip| OR (|!obscure| AND |Long Jump|) OR (|!hard| AND (|Wallkick| OR |Course 1 Cannon| OR |Shell|) AND (|Kick| OR |Ground Pound|))"
+        "Comment": "Can use mushroom pads (MP) without jump. Can LJ up and from crooked shrooms (CS). WK same route but you run up the hill and slide off to roof. Can slide down CS hill and use MP to get to cannon. Can use shell and double rainbow or secret pipe route. Can use fire to run up wall onto top platform inside house. Can GP to get 5 coins.",
+        "Requirements": "(|Jump| AND (|!reasonable| or |Wallkick|)) OR |Backflip| OR |Sideflip| OR (|!obscure| AND |Long Jump|) OR (|!hard| AND (|Wallkick| OR |Course 1 Cannon| OR |Shell|) AND (|Kick| OR (|Ground Pound| AND |!expert|)))"
       },
       {
         "exists": true,
-        "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR (|!obscure| AND (|Jump| OR |Sideflip| OR |Shell|)) OR (|!hard| AND (|Backflip| OR |Wallkick| OR |Course 1 Cannon|))"
+        "Comment": "Can use shell and spawn mushroom pad (MP) to land on top of big shroom, can slide off wall to get hit koopa. Can use MP in water to ledge grab big shroom. Can use MP and flyguy to get on clouds. Can use star 1 cannon strat, line up the center-base of the right triangle with the tall pillar corner that points towards crooked shrooms such that the bottom of the triangle is barley touching the pillar (very little of the triangle is inside the pillar), then shoot and hold right to slide off and grab pole.",
+        "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR (|!obscure| AND (|Jump| OR |Sideflip| OR (|Shell| AND (|Dive| or |Kick| or |Punch| or |Slidekick| or |!hard|)))) OR (|!hard| AND (|Backflip| AND |Wallkick|) OR |Course 1 Cannon|) OR (|!expert| AND |Backflip|)"
       },
       {
         "exists": true,
+        "Comment": "Can use the hill between crooked shrooms and shroom house to slide down and jump onto cloud. Can use star 1 cannon strat, line up the tip of the left triangle to just above where the star mushroom and cloud lines point to the bottom left (the right triangle should be contained entirely within the mushroom and expect to rollout on cloud), precise backflip to grass, use flyguy to get to star.",
         "Requirements": "(|Jump| AND (|Kick| OR |Dive| OR |Wallkick| OR |Long Jump|)) OR (|!reasonable| AND (|Double Jump| OR |Sideflip| OR |Long Jump|)) OR (|!obscure| AND |Jump|) OR (|!hard| AND |Course 1 Cannon| AND |Backflip|)"
       },
       {
         "exists": true,
-        "Requirements": "|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR (|!obscure| AND |Shell|)"
+        "Comment": "Need a jump to get out of the water area, can jump with shell even if you don't have jump unlocked.",
+        "Requirements": "|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR (|!obscure| AND |Shell| AND (|Dive| or |Kick| or |Punch| or |Slidekick| or |!hard|))"
       },
       {
         "exists": true,
-        "Requirements": "|Jump| OR |Sideflip| OR (|!reasonable| AND (|Long Jump| OR |Backflip|)) OR (|!obscure| AND |Shell|)"
+        "Comment": "Need a jump to get out of the water area, can jump with shell even if you don't have jump unlocked.",
+        "Requirements": "|Jump| OR |Sideflip| OR (|!reasonable| AND (|Long Jump| OR |Backflip|)) OR (|!obscure| AND |Shell| AND (|Dive| or |Kick| or |Punch| or |Slidekick| or |!hard|))"
       },
       {
         "exists": true,
-        "Comment": "Double Jump around AND up one of the platforms. Can Long Jump first frame WK the back wall to grab the star.",
+        "Comment": "Can Double Jump around the left side of the walls, ledge grab the top of the wall towards the double rainbow, run off jump ledge grab, double jump to grab star. Can Long Jump first frame WK the back wall to grab the star.",
         "Requirements": "|Course 1 Cannon| AND ((|Wallkick| AND (|Double Jump| OR |Sideflip| OR (|!reasonable| AND |Jump|) OR (|Long Jump| AND |!hard|) OR (|Backflip| AND |!expert|))) OR (|Double Jump| AND |!expert|))"
       },
       {
         "exists": true,
+        "Comment": "A lot of tricks in this one. Obscure uses shell, can get shell with sliding off wall into koopa. Hard uses water mushroom pad (MP) and WK or flyguy (expert) to get arrow coins, precise MP (expert) or WK to get red coin circle coins near red bomb-omb. Can break coin box with bomb-omb kick or throw. Can use MP to jump on piranhas or lure over a bomb-omb to piranhas and goombas. Can use star 1 strat GP to get blue coins. May have to cannon shoot through the tall pillar to grab coins. Can get cave RC with run-up wall, turn around, let go of run to fall into it.",,
         "Requirements": "|Jump| OR |Sideflip| OR (|!reasonable| AND (|Long Jump| OR |Backflip|)) OR (|!hard| AND (|Kick| OR |Dive| OR (|Wallkick| AND |Ground Pound|) OR |Course 1 Cannon| OR |Shell|))"
       }
     ],
     "Cannon": {
       "exists": true,
-      "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR ((|Double Jump| OR |Sideflip|) AND |Wallkick|) OR (|!reasonable| AND (|Triple Jump| OR (|Wallkick| AND |Jump|))) OR (|!obscure| AND (|Jump| OR |Shell|)) OR (|!expert| and |Dive|)"
+      "Comment": "Obscure use shell, can slide off wall to hit koopa. Can use star 2 strat to get to rainbows, jump over to where the 1-up is, and jump down to cloud. Can use star 1 cannon strat and shoot at wall. Can rollout onto mushroom pad and jump dive to him.",
+      "Requirements": "|Long Jump| OR (|Double Jump| AND (|Dive| OR |Kick|)) OR ((|Double Jump| OR |Sideflip|) AND |Wallkick|) OR (|!reasonable| AND (|Triple Jump| OR (|Wallkick| AND |Jump|))) OR (|!obscure| AND (|Jump| OR (|Shell| AND (|Dive| or |Kick| or |Punch| or |Slidekick| or |!hard|)))) OR (|!hard| AND |Course 1 Cannon|) OR (|!expert| and |Dive|)"
     },
     "Troll Star": {
       "exists": false,
@@ -48,35 +55,38 @@
     "Stars": [
       {
         "exists": true,
-        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump|)) OR (|!reasonable| AND |Jump|) OR (|!obscure| AND (|Sideflip| OR |Long Jump|)) OR (|!hard| AND (|Backflip| AND |Wallkick|))"
+        "Comment": "Can run up hay pile to get in door. Can long jump from barn roof. Can BF WK around (can also use the thwomp nearest to the star to push you through the platform).",
+        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump|)) OR (|!reasonable| AND (|Jump| or |Sideflip|)) OR (|!obscure| AND |Long Jump|) OR (|!hard| AND (|Backflip| AND |Wallkick|))"
       },
       {
         "exists": true,
-        "Comment": "Hard: Flip to AC, WK first pole then house, double burn to other side, WK pole to get on silo, bonk box then bonk silo but WK silo bonk to break box, repeat WK for silo. RO/SK off house then RO/SK to 3rd burn for silo, GP Box.",
-        "Requirements": "((|Jump| AND (|Dive| OR |Kick|)) OR (|Double Jump|)) OR (|Long Jump| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!reasonable| AND (|Long Jump| OR (|Sideflip| AND |Dive|))) OR (|!obscure| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!hard| AND (|Wallkick| OR (|Ground Pound| AND (|Dive| OR |Slidekick|))))"
+        "Comment": "Can double burn to cross the gap. Can use heave-ho to get on AC. Can WK first pole then house. Can WK pole to get momentum for a double burn to other side. Can WK pole to get on silo. Can bonk box then bonk silo but WK silo bonk to break box. Can Dive/SK off house. Can Dive/SK to 3rd burn wire to get across. Can burn to get on top of silo. Can walk off GP Box.",
+        "Requirements": "((|Jump| AND (|Dive| OR |Kick|)) OR (|Double Jump|)) OR (|Long Jump| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!reasonable| AND (|Long Jump| OR (|Sideflip| AND |Dive|))) OR (|!obscure| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!hard| AND (|Ground Pound| AND |Dive|)) OR (|!expert| AND (|Wallkick| OR (|Ground Pound| AND |Slidekick|)))"
       },
       {
         "exists": true,
-        "Requirements": "(|Triple Jump| AND |Wing Cap|) OR (|Wallkick| AND (|Long Jump| OR |Double Jump| OR ((|Jump| OR |Sideflip|) AND |Dive|))) OR (|!reasonable| AND (|Jump| OR |Sideflip| OR (|Long Jump| AND |Backflip|))) OR (|!obscure| AND (|Long Jump| OR |Backflip|))"
+        "Comment": "Can walk up hay pile. Can long jump from barn roof to get on factory outside area. Can backflip from brick ledge to grab vine.",
+        "Requirements": "(|Triple Jump| AND |Wing Cap|) OR (|Wallkick| AND (|Long Jump| OR |Double Jump| OR ((|Jump| OR |Sideflip|) AND |Dive|))) OR (|!reasonable| AND (|Jump| OR |Sideflip| OR (|Long Jump| AND |Backflip|))) OR (|!obscure| AND |Long Jump|) OR (|!hard| and |Backflip|)"
       },
       {
         "exists": true,
-        "Requirements": "(|Metal Cap| OR |!reasonable| AND (|Kick| OR |Ground Pound| OR |Punch|) AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!obscure| AND (|Kick| OR |Ground Pound| OR |Punch|) AND |Long Jump|) OR (|!hard| AND (|Kick| OR |Ground Pound| OR |Punch|) AND (|Slidekick| OR |Dive|))"
+        "Comment": "Can break box with fall off ground pound. Can Dive or Slidekick from hay pile to star.",
+        "Requirements": "((|Metal Cap| OR |!reasonable|) AND (|Kick| OR |Ground Pound| OR |Punch|) AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|Long Jump| AND ((|!reasonable| AND (|Kick| or |Punch|)) OR (|!obscure| AND |Ground Pound|))) OR (|!hard| AND |Dive| AND (|Kick| OR |Ground Pound| OR |Punch|)) OR (|!expert| AND |Slidekick| AND (|Kick| OR |Ground Pound| OR |Punch|))"
       },
       {
         "exists": true,
-        "Comment": "Hard: WK conveyor. RO on conveyor. SK from upper platform near star to RC conveyor, can use thwomp to clip onto platform.",
-        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump|)) OR (|!reasonable| AND ((|Long Jump| OR |Jump|) AND |Backflip|) OR |Sideflip| OR |Double Jump|) OR (|!obscure| AND |Jump|) OR (|!hard| AND |Backflip| AND (|Wallkick| OR |Dive| OR |Slidekick|))"
+        "Comment": "Can get thwomp RC with jump but you need to hold analog stick to get up instead of getting up with A. Can get RC above keronpa ball from rail. Can WK side of conveyor and factory wall. Can rollout onto and from conveyors. Can SK from thwomp RC. Can SK from upper platform near star to RC conveyor, can use thwomp to clip onto platform.",
+        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump|)) OR (|!reasonable| AND ((|Long Jump| OR |Jump|) AND |Backflip|) OR |Sideflip| OR |Double Jump|) OR (|!obscure| AND |Jump|) OR (|!hard| AND |Backflip| AND (|Wallkick| OR |Slidekick| OR |Dive|))"
       },
       {
         "exists": true,
-        "Comment": "Obscure AND Hard use the fire shooter object at the end of the red conveyor to get up.",
-        "Requirements": "(|Triple Jump| AND |Dive|) OR (|!reasonable| AND (|Triple Jump| OR (|Double Jump| AND (|Kick| OR |Dive|)))) OR (|!obscure| AND (((|Jump| OR |Long Jump|) AND |Wallkick|) OR ((|Jump| OR |Sideflip| OR |Long Jump|) AND (|Backflip|)) OR |Double Jump|)) OR (|!hard| AND (|Backflip| AND (|Wallkick| OR |Slidekick| OR |Dive|)) OR |Sideflip| OR (|Jump| AND |Kick|))"
+        "Comment": "Can use fire shooter object at the end of the red conveyor to get up (expert use BF to get on this and SF or Jump-Kick to get off). Can WK off of the wooden beam (hard).",
+        "Requirements": "(|Triple Jump| AND |Dive|) OR (|!reasonable| AND (|Triple Jump| OR (|Double Jump| AND (|Kick| OR |Dive|)))) OR (|!obscure| AND (|Double Jump| OR (|Backflip| AND (|Jump| OR |Sideflip| OR |Long Jump|)))) OR (|!hard| AND (|Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip|))) OR (|!expert| AND (|Backflip| AND (|Wallkick| OR |Slidekick| OR |Dive|)) OR |Sideflip| OR (|Jump| AND |Kick|))"
       },
       {
         "exists": true,
-        "Comment": "Hard needs break the box outside of conveyor, then dive off of the barn roof with wing cap AND rollout onto conveyor to get inside factory. May also need to use star 2 strats.",
-        "Requirements": "|Jump| OR (|!reasonable| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND (|Dive| AND |Wing Cap| AND (|Punch| OR |Kick|)))"
+        "Comment": "Expert needs to break the box near the outside conveyor, then dive off of the barn roof with wing cap AND rollout onto conveyor to get inside factory. May also need to use star 2 strats.",
+        "Requirements": "|Jump| OR (|!reasonable| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!expert| AND (|Dive| AND |Wing Cap| AND (|Punch| OR |Kick|)))"
       }
     ],
     "Cannon": {
@@ -96,38 +106,38 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "Obscure AND Hard uses bomb to break cannon box. Hard WK uses lures spindrift to water with some damage pushing it back, jump from water onto it to land on greyish slab, wallkick up to boat. SK open shell box OR burn to top of shell box AND walk off GP to open. Use bomb in cave to clip into water then falloff onto spindrift to open shell box.",
-        "Requirements": "((|Jump| OR |Sideflip|) AND (|Punch| OR |Kick| OR |Ground Pound|)) OR (|!reasonable| AND (|Long Jump| OR |Backflip|) AND (|Punch| OR |Kick| OR |Ground Pound|)) OR (|!obscure| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND ((|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch| OR |Kick|) AND |Shell|) OR |Wallkick|)"
+        "Comment": "Can use bomb to break cannon box. Expert WK lures near spawn spindrift to water with some damage pushing it back, jump from water onto it to land on greyish slab, wallkick up to boat. Can use far spawn spindrift damage pushing it back and kick/rollout to git shell box. Can burn to top of shell box near spiral AND walk off GP to open. Use bomb in cave to clip into water then falloff onto spindrift to open shell box (recommend sliding down from far right side since you need a lot of speed).",
+        "Requirements": "|@C3S1|"
       },
       {
         "exists": true,
-        "Comment": "Obscure: Shell ride up mountain to him. Hard: BF WK to seesaw blocks then WK waterfall. SK open shell box OR burn to top of shell box AND walk off GP to open. Logic works with previous star1/check unlock too.",
-        "Requirements": "((|Jump| OR |Long Jump| OR |Sideflip|) AND (|Punch| OR (|!obscure| OR |Dive|))) OR (|!obscure| AND |Shell| AND |Backflip| AND (|Punch| OR |Dive|)) OR (|!hard| AND ((|Backflip| AND |Wallkick|) OR ((|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch| OR |Kick|) AND |Shell|)) AND (|Punch| OR |Dive|))"
+        "Comment": "Can Shell ride up mountain to baby. May need shell strats from course 3 star 1. Expert BF WK to seesaw blocks then WK waterfall.",
+        "Requirements": "|@C3S1| AND (((|Jump| OR |Long Jump| OR |Sideflip|) AND (|Punch| OR (|!obscure| OR |Dive|))) OR (|!obscure| AND |Shell| AND |Backflip| AND (|Punch| OR |Dive|)) OR (|!hard| AND |Shell| AND (|Slidekick| OR |Dive| OR |Kick| OR (|!expert| AND |Punch|)) AND (|Punch| OR |Dive|)) OR (|!expert| AND (|Backflip| AND |Wallkick|) AND (|Dive| OR |Punch|)))"
       },
       {
         "exists": true,
-        "Comment": "Obscure use the spindrift. Hard use the lava to boost OR dive to kill bomb in cave AND use it to clip into water to break last box.",
-        "Requirements": "|Kick| OR |Punch| OR (|Ground Pound| AND ((|Jump| OR |Backflip| OR |Sideflip| OR (|!reasonable| AND |Long Jump|)) OR (|!obscure| AND (|Dive| OR |Slidekick|)) OR (|!hard|))) OR (|!hard| AND |Dive|)"
+        "Comment": "Obscure and hard use the spindrift near box with X (Can break the box while spinning). Hard lures spindrift to mushroom pad (may need to take damage to lure spindrift more).",
+        "Requirements": "|Kick| OR |Punch| OR (|Ground Pound| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!obscure| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |Dive| OR |Slidekick|)) OR (|!hard|)"
       },
       {
         "exists": true,
-        "Comment": "Obscure use the cannon/bomb strat from star 1. Hard use the cannon strat from star 1 AND precise cannon shot to open the box, then walk up tree back falling into flyguy to grab star.",
-        "Requirements": "(|Long Jump| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!reasonable| AND (|Long Jump| OR (|Jump| AND |Kick|))) OR (|!obscure| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND ((|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch| OR |Kick|) AND |Shell|) OR |Wallkick|)"
+        "Comment": "Obscure use the cannon/bomb strat from star 1. Hard uses star 1 strats and both flyguys to open box and grab star. Expert uses star 1 strats AND an almost pixel perfect cannon shot to bonk open the box, then walk up tree back falling into flyguy to grab star.",
+        "Requirements": "(|Long Jump| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!reasonable| AND (|Long Jump| OR (|Jump| AND |Kick|))) OR (|!obscure| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND |Kick| AND |Shell|) OR (|!expert| AND (|Wallkick| OR (|Shell| AND (|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch|))))"
       },
       {
         "exists": true,
-        "Comment": "Obscure is just tight jumps OR WK. Hard uses the drain hole next to one of the crystals.",
+        "Comment": "Obscure is just tight jumps OR WK. Hard uses the drain hole next to one of the crystals (I found it easier to use the inside of the hole and angle camera parallel to the wall).",
         "Requirements": "(|Long Jump| AND (|Jump| OR |Sideflip|)) OR (|!reasonable| AND |Long Jump|) OR (|!obscure| AND (|Double Jump| OR (|Jump| AND (|Kick| OR |Wallkick|)) OR (|Sideflip| AND |Wallkick|))) OR (|!hard| AND (|Jump| OR |Sideflip|))"
       },
       {
         "exists": true,
-        "Comment": "Hard either is star 1 strats to get shell OR lava boosting jumping to star.",
-        "Requirements": "(|Shell| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |!reasonable|))) OR (|!hard| AND (|Jump| OR (|Shell| AND (|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch| OR |Kick|))))"
+        "Comment": "Expert or hard can use star 1 strats to get shell OR double lava boost from the higher lava rock into left side of the star and spam jump to get up.",
+        "Requirements": "(|Shell| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |!reasonable|))) OR (|!hard| AND (|Jump| OR (|Shell| AND (|Slidekick| OR |Dive| OR |Kick|)))) OR (|!expert| AND |Shell| AND (|Ground Pound| OR |Punch|))"
       },
       {
         "exists": true,
-        "Comment": "Hard uses star 1 strats to get shell OR to ship. Ground Pound off of cliff to blue coin thing. WK AND Kick are doable but it's very hard AND might need RNG from ship lower bomb.",
-        "Requirements": "(|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |!reasonable|)) OR (|!hard| AND ((|Shell| AND (|Slidekick| OR |Ground Pound| OR |Dive| OR |Punch| OR |Kick|)) OR ((|Wallkick| OR |Ground Pound|) AND (|Kick| OR |Punch| OR |Dive|))))"
+        "Comment": "Can use star 1 strats to get shell OR to ship OR bomb clip. Can walk off Ground Pound from cliff to blue coin block. Can go into red coin cave and spawn star near water to grab. WK AND Kick are doable but might need good RNG from ship lower bomb.",
+        "Requirements": "(|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |!reasonable|)) OR (|!hard| AND ((|Shell| AND (|Slidekick| OR |Dive| OR |Kick|)) OR (|Ground Pound| AND (|Punch| OR |Kick| OR |Dive|)))) OR (|!expert| AND ((|Shell| AND (|Ground Pound| OR |Punch|)) OR (|Wallkick| AND (|Kick| OR |Punch| OR |Dive|))))"
       }
     ],
     "Cannon": {
@@ -147,8 +157,8 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "Lot of different combinations AND possible tight jumps for this one. Hard is either very well placed double jumps OR WK up the sand pillar where the star is.",
-        "Requirements": "(|Long Jump| AND (|Wallkick| OR |Sideflip|)) OR (|!reasonable| AND ((|Triple Jump| AND (|Kick| OR |Dive| OR |Long Jump|))) OR ((|Double Jump| AND |Dive|) AND (|Sideflip| OR |Wallkick|)) OR ((|Jump| AND |Kick|) AND (|Sideflip| OR |Wallkick|))) OR (|!obscure| AND (|Triple Jump| OR ((|Backflip| OR |Double Jump|) AND ((|Jump| AND |Kick|) OR |Long Jump| OR (|Double Jump| AND |Dive|))))) OR (|!hard| AND (|Wallkick| OR |Double Jump|))"
+        "Comment": "A Lot of different combinations AND possible tight jumps for this one. Expert is either very well placed double jumps OR WK up the sand pillar where the star is.",
+        "Requirements": "(|Long Jump| AND (|Wallkick| OR |Sideflip|)) OR (|!reasonable| AND ((|Triple Jump| AND (|Kick| OR |Dive| OR |Long Jump|))) OR ((|Double Jump| AND |Dive|) AND (|Sideflip| OR |Wallkick|)) OR ((|Jump| AND |Kick|) AND (|Sideflip| OR |Wallkick|))) OR (|!obscure| AND (|Triple Jump| OR (|Double Jump| AND |Wallkick|) OR ((|Backflip| OR |Double Jump|) AND ((|Jump| AND |Kick|) OR |Long Jump| OR (|Double Jump| AND |Dive|))))) OR (|!expert| AND (|Wallkick| OR |Double Jump|))"
       },
       {
         "exists": true,
@@ -1192,6 +1202,7 @@
       "B3 Secret": "((|!hard| AND |Wallkick|) AND (|Long Jump| OR (|Triple Jump| AND |Dive|)))",
       "B3 Entrance": "((|Stars:60| OR |@B3 Secret|) AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |!reasonable|) AND |@OW2| AND |Key 2|)",
       "OW2": "(|Key 1| OR |@B2 Secret|)",
+      "C3S1": "(((|Jump| OR |Sideflip| OR |Backflip|) AND (|Punch| OR |Kick| OR |Ground Pound|)) OR (|!reasonable| AND |Long Jump| AND (|Punch| OR |Kick|)) OR (|!obscure| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND |Shell| AND (|Slidekick| OR |Dive| OR |Kick|)) OR (|!expert| AND (|Wallkick| OR (|Shell| AND (|Ground Pound| OR |Punch|)))))",
       "MC Entrance": "(|Stars:10| AND ((|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) OR (|!reasonable| AND (|Slidekick| OR |Dive|)) OR (|!obscure| AND |Punch|) OR |!expert|))",
       "WC Entrance": "(|@OW2| AND |Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!obscure| AND |Backflip|)))",
       "VC Entrance": "(|@OW2| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!reasonable| AND |Backflip|)))"

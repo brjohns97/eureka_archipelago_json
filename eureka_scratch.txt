@@ -1,12 +1,16 @@
 
 
 
+(|Double Jump| OR ((|Sideflip| OR (|Jump| AND |Wallkick|)) AND (|Long Jump| OR (|Jump| AND |Kick|)))) OR 
+(|!reasonable| AND (|Sideflip| OR ((|Jump| OR |Long Jump|) AND |Wallkick|))) OR 
+(|!hard| AND (|Long Jump| OR (|Backflip| AND |Wallkick|) OR (|Jump| AND |Kick| AND (|Slidekick| OR |Dive|))))
 
-((|Jump| AND (|Dive| OR |Kick| OR |Long Jump|)) OR |Double Jump| OR (|Long Jump| AND (|Backflip| OR |Sideflip|))) OR (|!reasonable| AND (|Jump| OR |Long Jump| OR (|Backflip| AND |Wallkick|) OR (|Sideflip| AND (|Wallkick| OR |Dive|)))) OR (|!hard| AND |Sideflip|)
+        "Comment": "Hard uses a BF WK tech OR the support beam on the third platform near the fire shooters.",
 
 
 
-"Comment": "Insert comment here.",
+
+
 
 "Jump"
 	"Double Jump"-

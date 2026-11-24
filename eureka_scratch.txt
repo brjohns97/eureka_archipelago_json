@@ -1,15 +1,13 @@
 
 
 
-
-(|Metal Cap| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR 
-(|!obscure| AND ((|Triple Jump| AND |Wallkick|) OR |Metal Cap|)) OR 
-(|!hard| AND |Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip|))
+(|Wallkick| AND (|Jump| OR (|!reasonable| AND (|Long Jump| OR |Sideflip|)))) OR (|!expert| AND (|Jump| AND |Kick|) OR (|Backflip| AND |Wallkick|))
 
 
 
 
-        "Comment": "Obscure TJ WK on the last lava pillar into lava fall into lava rock to boost yourself up, grab coins to heal AND lava boost to star. OR lava boost into metal cap box. Hard uses WK on the last AND second to last lava rock pillar.",
+        "Comment": "(Walkway star) BF WK hard because it is time consuming to miss it.",
+
 
 
 

@@ -1,13 +1,15 @@
 
 
 
-(|Double Jump| OR ((|Sideflip| OR (|Jump| AND |Wallkick|)) AND (|Long Jump| OR (|Jump| AND |Kick|)))) OR 
-(|!reasonable| AND (|Sideflip| OR ((|Jump| OR |Long Jump|) AND |Wallkick|))) OR 
-(|!hard| AND (|Long Jump| OR (|Backflip| AND |Wallkick|) OR (|Jump| AND |Kick| AND (|Slidekick| OR |Dive|))))
 
-        "Comment": "Hard uses a BF WK tech OR the support beam on the third platform near the fire shooters.",
+(|Metal Cap| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR 
+(|!obscure| AND ((|Triple Jump| AND |Wallkick|) OR |Metal Cap|)) OR 
+(|!hard| AND |Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip|))
 
 
+
+
+        "Comment": "Obscure TJ WK on the last lava pillar into lava fall into lava rock to boost yourself up, grab coins to heal AND lava boost to star. OR lava boost into metal cap box. Hard uses WK on the last AND second to last lava rock pillar.",
 
 
 

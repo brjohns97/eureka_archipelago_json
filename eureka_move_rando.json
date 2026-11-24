@@ -33,7 +33,7 @@
       },
       {
         "exists": true,
-        "Comment": "A lot of tricks in this one. Obscure uses shell, can get shell with sliding off wall into koopa. Hard uses water mushroom pad (MP) and WK or flyguy (expert) to get arrow coins, precise MP (expert) or WK to get red coin circle coins near red bomb-omb. Can break coin box with bomb-omb kick or throw. Can use MP to jump on piranhas or lure over a bomb-omb to piranhas and goombas. Can use star 1 strat GP to get blue coins. May have to cannon shoot through the tall pillar to grab coins. Can get cave RC with run-up wall, turn around, let go of run to fall into it.",,
+        "Comment": "A lot of tricks in this one. Obscure uses shell, can get shell with sliding off wall into koopa. Hard uses water mushroom pad (MP) and WK or flyguy (expert) to get arrow coins, precise MP (expert) or WK to get red coin circle coins near red bomb-omb. Can break coin box with bomb-omb kick or throw. Can use MP to jump on piranhas or lure over a bomb-omb to piranhas and goombas. Can use star 1 strat GP to get blue coins. May have to cannon shoot through the tall pillar to grab coins. Can get cave RC with run-up wall, turn around, let go of run to fall into it.",
         "Requirements": "|Jump| OR |Sideflip| OR (|!reasonable| AND (|Long Jump| OR |Backflip|)) OR (|!hard| AND (|Kick| OR |Dive| OR (|Wallkick| AND |Ground Pound|) OR |Course 1 Cannon| OR |Shell|))"
       }
     ],
@@ -112,7 +112,7 @@
       {
         "exists": true,
         "Comment": "Can Shell ride up mountain to baby. May need shell strats from course 3 star 1. Expert BF WK to seesaw blocks then WK waterfall.",
-        "Requirements": "|@C3S1| AND (((|Jump| OR |Long Jump| OR |Sideflip|) AND (|Punch| OR (|!obscure| OR |Dive|))) OR (|!obscure| AND |Shell| AND |Backflip| AND (|Punch| OR |Dive|)) OR (|!hard| AND |Shell| AND (|Slidekick| OR |Dive| OR |Kick| OR (|!expert| AND |Punch|)) AND (|Punch| OR |Dive|)) OR (|!expert| AND (|Backflip| AND |Wallkick|) AND (|Dive| OR |Punch|)))"
+        "Requirements": "|@C3S1| AND (((|Jump| OR |Long Jump| OR |Sideflip|) AND (|Punch| OR (|!obscure| AND |Dive|))) OR (|!obscure| AND |Shell| AND |Backflip| AND (|Punch| OR |Dive|)) OR (|!hard| AND |Shell| AND (|Slidekick| OR |Dive| OR |Kick| OR (|!expert| AND |Punch|)) AND (|Punch| OR |Dive|)) OR (|!expert| AND (|Backflip| AND |Wallkick|) AND (|Dive| OR |Punch|)))"
       },
       {
         "exists": true,
@@ -162,22 +162,22 @@
       },
       {
         "exists": true,
-        "Comment": "Hard uses a BF WK tech OR the support beam on the third platform near the fire shooters.",
-        "Requirements": "(|Double Jump| OR ((|Sideflip| OR (|Jump| AND |Wallkick|)) AND (|Long Jump| OR (|Jump| AND |Kick|)))) OR (|!reasonable| AND (|Sideflip| OR ((|Jump| OR |Long Jump|) AND |Wallkick|))) OR (|!hard| AND (|Long Jump| OR (|Backflip| AND |Wallkick|) OR (|Jump| AND |Kick| AND (|Slidekick| OR |Dive|))))"
+        "Comment": "Hard goes up the mount toward the right of spawn by using lava boosts, coin heals, and mushroom pad to get to the upper section with the pokey. Can use heart in front of koopa race cave to heal (should reach pokey with 2 hp). Can heal from pokey or 5 coins on wooden slab. Jump or Long Jump fromt he tall slanted wooden block into lavafall to get up. Long Jump, Rollout, jump-kick, or slidekick to get far enough to lava boost reach top of brick wall then drop down and grab star.",
+        "Requirements": "(|Double Jump| OR ((|Sideflip| OR (|Jump| AND |Wallkick|)) AND (|Long Jump| OR (|Jump| AND |Kick|)))) OR (|!reasonable| AND (|Sideflip| OR ((|Jump| OR |Long Jump|) AND |Wallkick|))) OR (|!hard| AND (|Long Jump| OR (|Jump| AND (|Dive| OR |Slidekick|)))) OR (|!expert| AND ((|Backflip| AND |Wallkick|) OR (|Jump| AND |Kick|)))"
       },
       {
         "exists": true,
-        "Comment": "Hard uses crazy WK tech OR Long Jump burn up the lava sand to come in from the top. Obscure is to jump as soon as you hit the switch to grab the first box.",
-        "Requirements": "(|Double Jump| OR ((|Backflip| OR |Sideflip|) AND |Jump|)) OR (|!reasonable| AND ((|Backflip| OR |Sideflip|) OR (|Jump| AND |Wallkick|))) OR (|!obscure| AND |Jump|) OR (|!hard| AND (|Wallkick| OR |Long Jump|))"
+        "Comment": "Expert uses crazy WK tech. Can use star 2 strats to get up very top of mountain. May need to incorporate the lower 3 coins near mushroom pad to get better position for lavafall boost. (Dive and Slidekick directly into star. Kick the inside of the wheel to push back into star).",
+        "Requirements": "(|Double Jump| OR ((|Backflip| OR |Sideflip|) AND |Jump|)) OR (|!reasonable| AND ((|Backflip| OR |Sideflip|) OR (|Jump| AND |Wallkick|))) OR (|!obscure| AND (|Jump| OR |Long Jump|)) OR (|!hard| AND (|Dive| OR |Slidekick|)) OR (|!expert| AND (|Wallkick| OR |Kick|))"
       },
       {
         "exists": true,
-        "Comment": "Hard: Lava boost up to the side used to get to koopa race, lava boost to center pokey platform, kill pokey OR backflip to get coins, lava boost to bridge coins, wallkick to star box, lava boost to open star box. Obscure double jump to grab the top long vertical plank instead of wallkicking.",
-        "Requirements": "(|Wallkick| AND ((|Long Jump| OR |Sideflip|) OR (|Jump| AND |Kick|))) OR (|!reasonable| AND (|Triple Jump| OR (|Sideflip| AND (|Dive| OR |Jump|)))) OR (|!obscure| AND |Double Jump|) OR (|!hard| AND (|Wallkick| AND ((|Slidekick| OR |Dive| OR |Punch| OR |Kick|) OR |Backflip|)))"
+        "Comment": "Obscure double jump to grab the top long vertical plank instead of wallkicking. Can use star 2 strats to get to pokey circle area and kill pokey for health. Double lava boost to bridge coins, wallkick to star box, lava boost to open star box, WK or lava boost to grab star. Can use star 2/3 strats to get up very top of mountain with slidekick, then slidekick down to near star and grab 3 coins, slidekick open box, lava boost to star.",
+        "Requirements": "(|Wallkick| AND ((|Long Jump| OR |Sideflip|) OR (|Jump| AND |Kick|))) OR (|!reasonable| AND (|Triple Jump| OR (|Sideflip| AND (|Dive| OR |Jump|)))) OR (|!obscure| AND |Double Jump|) OR (|!hard| AND (|Slidekick| OR (|Wallkick| AND ((|Dive| OR |Punch| OR |Kick|) OR |Backflip|))))"
       },
       {
         "exists": true,
-        "Comment": "Obscure uses lava boost to top from koopa race side then long jump to red coin on pillar. Hard uses difficult backflip WKs.",
+        "Comment": "Obscure uses star 2 strats to get on top of mountain where pokey is and long jump to the pillar with RC on top. Hard uses difficult backflip WKs (can backflip out of sand river from spawn side, BF WK the out the other side where the tan and gray colors meet).",
         "Requirements": "(|Double Jump|) OR (|!reasonable| AND (|Sideflip| OR (|Jump| AND |Wallkick|))) OR (|!obscure| AND |Long Jump|) OR (|!hard| AND (|Wallkick| AND |Backflip|))"
       },
       {
@@ -187,8 +187,8 @@
       },
       {
         "exists": true,
-        "Comment": "Was very difficult logic to map out, probably missed things. Mostly just do lava jumps AND shit idk.",
-        "Requirements": "(((|Jump| OR |Long Jump|) AND (|Wallkick| OR (|Backflip| OR |Sideflip|))) OR (|Ground Pound| AND (|Jump| OR |Sideflip|)) OR |Double Jump|) OR (|!reasonable| AND (|Sideflip|) OR (|Jump| AND (|Backflip| OR |Slidekick| OR |Dive| OR |Kick| OR |Punch|))) OR (|!obscure| AND (|Jump| OR |Long Jump|)) OR (|!hard| AND ((|Ground Pound| OR |Wallkick|) AND (|Slidekick| OR |Dive| OR |Kick|) OR (|Wallkick| AND |Punch|) OR |Backflip|))"
+        "Comment": "Was very difficult logic to map out, probably missed things. Mostly just do lava jumps...",
+        "Requirements": "(((|Jump| OR |Long Jump|) AND (|Wallkick| OR (|Backflip| OR |Sideflip|))) OR (|Ground Pound| AND (|Jump| OR |Sideflip|)) OR |Double Jump|) OR (|!reasonable| AND (|Sideflip|) OR (|Jump| AND (|Backflip| OR |Slidekick| OR |Dive| OR |Kick| OR |Punch|))) OR (|!obscure| AND (|Jump| OR |Long Jump|)) OR (|!expert| AND ((|Ground Pound| OR |Wallkick|) AND (|Slidekick| OR |Dive| OR |Kick|) OR (|Wallkick| AND |Punch|) OR |Backflip|))"
       }
     ],
     "Cannon": {
@@ -208,38 +208,38 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "Obscure is rollout to owl tree then dive to tree twice to spawn AND grab owl. Hard WK uses dirt mound to backslide getup onto flyguy for shell, then flyguy near top of p switch to grab star directly.",
-        "Requirements": "(|Jump| OR |Long Jump| OR |Sideflip|) OR (|!obscure| AND |Dive|) OR (|!hard| AND (|Shell| AND |Slidekick| OR |Wallkick| OR |Kick|))"
+        "Comment": "Obscure is rollout to owl tree then dive into tree to spawn AND dive into tree again to jump and grab owl. Hard grabs shell near spawn using either goomba or flyguy, shell ride off cliff to get to backside where owl is, use shell to jump into tree and do max tree jump to ledge grab toward the outside of circle, teleport back, use other enemy to grab shell and repeat (may need to rollout 1st toxic spot, 2nd and 3rd can easily sk over). BF uses water glitch described in star 6 and a jump out of water to clip onto the ceiling above owl area then backflip down to owl spot. Expert WK uses dirt mound to backslide getup onto flyguy for shell, then flyguy near top where block switch is to grab star directly (do it from the raised wall). Kick is similar to WK but easier",
+        "Requirements": "(|Jump| OR |Long Jump| OR |Sideflip|) OR (|!obscure| AND |Dive|) OR (|!hard| AND |Shell| AND |Slidekick|) OR (|!expert| AND (|Backflip| OR (|Shell| AND (|Wallkick| OR |Kick|))))"
       },
       {
         "exists": true,
-        "Comment": "Obscure uses enemies AND rollouts to get to the shellbox. Hard uses dirt mount backslide getup onto flyguy to get shellbox.",
-        "Requirements": "|Shell| AND ((|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) OR (|!obscure| AND (|Slidekick| OR |Dive| OR |Kick|)) OR |!hard|)"
+        "Comment": "Obscure uses enemies AND rollouts to get to the shellbox. Expert uses dirt mount backslide getup onto flyguy to get shellbox.",
+        "Requirements": "|Shell| AND ((|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) OR (|!obscure| AND (|Slidekick| OR |Dive| OR |Kick|)) OR |!expert|)"
       },
       {
         "exists": true,
         "Comment": "Obscure/hard: Shellbox strats from previous stars. Owl dive strat from star 1. Backflip up pillars AND use flyguy to get secret near big eye slide.",
-        "Requirements": "(|Jump| OR |Sideflip| OR (|Long Jump| AND |Backflip|)) OR (|!reasonable| AND (|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump|) AND |Shell|)) OR (|!obscure| AND (|Shell| AND (|Slidekick| OR |Kick| OR |Dive|))) OR (|!hard| AND (|Dive| OR |Shell| OR |Backflip|))"
+        "Requirements": "(|Jump| OR |Sideflip| OR (|Long Jump| AND |Backflip|)) OR (|!reasonable| AND (|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump|) AND |Shell|)) OR (|!obscure| AND (|Shell| AND (|Slidekick| OR |Kick| OR |Dive|))) OR (|!hard| AND (|Dive| OR |Backflip|)) OR (|!expert| AND |Shell|)"
       },
       {
         "exists": true,
-        "Comment": "Hard requires good thwomp rng but it is doable with any jump AND shell.",
-        "Requirements": "(|Shell| AND (|Metal Cap| OR |!hard|) AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!reasonable| AND |Metal Cap| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |Wallkick|)))"
+        "Comment": "Expert requires good thwomp rng but it is doable with any jump AND shell.",
+        "Requirements": "(|Shell| AND (|Metal Cap| OR |!expert|) AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!reasonable| AND |Metal Cap| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |Wallkick|)))"
       },
       {
         "exists": true,
-        "Comment": "Obscure/Hard use shell strats from star 1.",
-        "Requirements": "(|Long Jump| OR (|Shell| AND (|Jump| OR |Backflip| OR |Sideflip|) OR |Double Jump| OR (|Jump| AND (|Kick| OR |Dive|)))) OR (|!reasonable| AND (|Jump| OR |Sideflip|)) OR (|!obscure| AND (|Shell| AND (|Dive| OR |Kick| OR |Slidekick|))) OR (|!hard| AND |Shell|)"
+        "Comment": "Obscure/Expert use shell strats from star 1.",
+        "Requirements": "(|Long Jump| OR (|Shell| AND (|Jump| OR |Backflip| OR |Sideflip|) OR |Double Jump| OR (|Jump| AND (|Kick| OR |Dive|)))) OR (|!reasonable| AND (|Jump| OR |Sideflip|)) OR (|!obscure| AND (|Shell| AND (|Dive| OR |Kick| OR |Slidekick|))) OR (|!expert| AND |Shell|)"
       },
       {
         "exists": true,
-        "Comment": "Obscure uses shell strats AND OR owl strats from star 1 with a slidekick to get metal cap. Hard uses a glitch coming out of the drain water pipe to clip up AND get halfway into the wall, walk into water out of bounds AND swim to star.",
-        "Requirements": "(|Metal Cap| AND (|Jump| OR (|!reasonable| AND (|Long Jump| AND (|Sideflip| OR |Wallkick| OR |Shell|))) OR (|!obscure| AND ((|Dive| AND (|Slidekick| OR |Long Jump|)) OR (|Shell| AND (|Dive| OR |Kick| OR |Slidekick|)))))) OR (|!hard|)"
+        "Comment": "Obscure uses shell strats AND OR owl strats from star 1 with a slidekick to get metal cap. Hard/expert uses a glitch coming out of the drain water pipe to clip up AND get halfway into the wall, walk into water out of bounds AND swim to star.",
+        "Requirements": "(|Metal Cap| AND (|Jump| OR (|!reasonable| AND (|Long Jump| AND (|Sideflip| OR |Wallkick| OR |Shell|))) OR (|!obscure| AND ((|Dive| AND (|Slidekick| OR |Long Jump|)) OR (|Shell| AND (|Dive| OR |Kick| OR |Slidekick|)))))) OR (|!hard| AND (|Jump| OR |Sideflip| OR |Long Jump|)) OR (|!expert|)"
       },
       {
         "exists": true,
-        "Comment": "Obscure uses shell strats from star AND owl strats from star 1. Hard need to use flyguy to get up to eyeball area, need to clip into water to collect the 7, need to slidekick to get 4 reds getting a specific red last so you can claim star at right height.",
-        "Requirements": "(|Jump| OR |Long Jump| OR |Sideflip| OR (|Backflip| AND (|Ground Pound| OR |Shell|))) OR (|!obscure| AND (|Dive| OR (|Shell| AND |Slidekick| OR |Kick|))) OR (|!hard| AND (|Wallkick| AND (|Slidekick| OR |Backflip|)))"
+        "Comment": "Obscure uses shell strats from star AND owl strats from star 1. Expert need to use flyguy to get up to eyeball area, need to clip into water to collect the 7, need to slidekick to get 4 reds getting a specific red last so you can claim star at right height.",
+        "Requirements": "(|Jump| OR |Long Jump| OR |Sideflip| OR (|Backflip| AND (|Ground Pound| OR |Shell|))) OR (|!obscure| AND (|Dive| OR (|Shell| AND |Slidekick| OR |Kick|))) OR (|!expert| AND (|Wallkick| AND (|Slidekick| OR |Backflip|)))"
       }
     ],
     "Cannon": {
@@ -259,18 +259,18 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "Obscure uses crazed crate to hop over wall OR long jump to yellow flag then long jump backwards. Hard uses dive to crazed crate OR BF WK OR Jump/LJ from the stained glass opening.",
-        "Requirements": "((|!reasonable| OR |Ground Pound|) AND (|Double Jump| OR |Sideflip| OR (|Jump| AND |Wallkick|) OR (|Backflip| AND (|Jump| OR |Long Jump|)))) OR (|!obscure| AND ((|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump| OR |Jump|) AND |Punch|))) OR (|!hard| AND (|Jump| OR (|Long Jump| AND |Dive|) OR (|Backflip| AND (|Wallkick| OR |Dive|))))"
+        "Comment": "Obscure uses crazed crate to hop over wall OR long jump to yellow flag then long jump backwards. Hard uses dive to crazed crate OR BF WK OR Jump from the stained glass opening (ledge grab left side of opening, get up, walk out slightly).",
+        "Requirements": "((|!reasonable| OR |Ground Pound| OR |Punch| OR |Kick|) AND (|Double Jump| OR |Sideflip| OR (|Jump| AND |Wallkick|) OR (|Backflip| AND (|Jump| OR |Long Jump|)))) OR (|!obscure| AND ((|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump| OR |Jump|) AND |Punch|))) OR (|!hard| AND (|Jump| OR (|Long Jump| AND |Dive|) OR (|Backflip| AND (|Wallkick| OR |Dive|))))"
       },
       {
         "exists": true,
-        "Comment": "Hard is just some very tight jumps.",
-        "Requirements": "(|Long Jump| AND (|Jump| OR |Sideflip|)) OR (|!reasonable| AND ((|Long Jump| AND |Wallkick|) OR (|Double Jump| AND (|Kick| OR |Dive|)))) OR (|!hard| AND ((|Jump| AND |Kick|) OR |Triple Jump|))"
+        "Comment": "Expert lava boosting to get on heart pillar and some very tight jumps.",
+        "Requirements": "(|Long Jump| AND (|Jump| OR |Sideflip|)) OR (|!reasonable| AND ((|Long Jump| AND |Wallkick|) OR (|Double Jump| AND (|Kick| OR |Dive|)))) OR (|!expert| AND ((|Jump| AND |Kick|) OR |Triple Jump|))"
       },
       {
         "exists": true,
-        "Comment": "Obscure OR Hard may use the crazed crate AND come in from the top. Hard may also use difficult parkour.",
-        "Requirements": "((|Long Jump| OR |Jump|) AND (|Backflip| OR |Wallkick| OR |Sideflip|)) OR (|!reasonable| AND |Jump|) OR (|!obscure| AND (|Long Jump| AND |Punch|)) OR (|!hard| AND ((|Backflip| AND |Wallkick|) OR ((|Long Jump| OR |Sideflip|) AND |Dive|)))"
+        "Comment": "Obscure OR Hard may use the crazed crate AND come in from the top. Expert and hard also use difficult parkour.",
+        "Requirements": "((|Long Jump| OR |Jump|) AND (|Backflip| OR |Wallkick| OR |Sideflip|)) OR (|!reasonable| AND |Jump|) OR (|!obscure| AND (|Long Jump| AND |Punch|)) OR (|!hard| AND |Dive| AND |Long Jump|) OR (|!expert| AND ((|Backflip| AND |Wallkick|) OR (|Sideflip| AND |Dive|)))"
       },
       {
         "exists": true,
@@ -279,13 +279,13 @@
       },
       {
         "exists": true,
-        "Comment": "Hard uses some lava boosts to get coins. Dive uses crazed crate to get on top of castle, dives over boxes to get red coin. Slidekick/punch uses crazed crate to get on castle wall then slidekick to build enough speed to run into pole. Slidekick over boxes to get red coin.",
-        "Requirements": "(|Jump| AND |Sideflip| AND |Long Jump|) OR (|!reasonable| AND |Backflip|) OR (|!hard| AND (|Dive| OR (|Slidekick| AND |Punch|)))"
+        "Comment": "hard/expert uses some lava boosts to get coins. Dive uses crazed crate to get on top of castle, dives over boxes to get red coin (WK makes it easier to get across). Slidekick/punch uses crazed crate to get on castle wall then slidekick/ro to build enough speed to run off into pole (don't rollout into pole). Slidekick over boxes to get red coin.",
+        "Requirements": "(|Jump| AND |Sideflip| AND |Long Jump|) OR (|!reasonable| AND |Backflip|) OR (|!hard| AND (|Dive| AND |Wallkick|)) OR (|!expert| AND (|Dive| OR (|Slidekick| AND |Punch|)))"
       },
       {
         "exists": true,
-        "Comment": "Kicking the big boo can be hard.",
-        "Requirements": "(|Ground Pound| AND (|Jump| OR |Backflip|)) OR (|!reasonable| AND |Ground Pound| AND (|Long Jump| OR |Sideflip|)) OR (|!obscure| AND |Ground Pound| AND (|Slidekick| OR |Kick|)) OR (|!hard| AND (|Kick| OR (|Ground Pound| AND |Dive|)))"
+        "Comment": "Walk off onto close platforms turn around and let boos come to you, be patient. Kicking the big boo is harder than it seems.",
+        "Requirements": "(|Ground Pound| AND (|Jump| OR |Backflip|)) OR (|!reasonable| AND |Ground Pound| AND (|Long Jump| OR |Sideflip|)) OR (|!obscure| AND |Ground Pound| AND (|Slidekick| OR |Kick|)) OR (|!hard| AND |Ground Pound| AND (|Dive| OR |Kick|)) OR (|!expert| AND |Kick|)"
       },
       {
         "exists": true,
@@ -310,8 +310,8 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "All involve getting to eye platform before bridge. Hard: Rollout Jump Dive to get to the eyeball platform before bridge. BF WK is obscure here because you can retry easily.",
-        "Requirements": "((|Triple Jump| AND |Dive|) OR |Long Jump|) OR (|!reasonable| AND ((|Double Jump| AND (|Kick| OR |Dive|)) OR (|Wallkick| AND (|Sideflip| OR |Jump|)))) OR (|!obscure| AND (|Double Jump| OR (|Backflip| AND |Wallkick|))) OR (|!hard| AND |Jump| AND |Dive|)"
+        "Comment": "All involve getting to eye platform before bridge. Hard: speedy Rollout into Jump to get to the eyeball platform before bridge (breaking boxes makes it a lot easier). BF WK is obscure here because you can retry easily.",
+        "Requirements": "((|Triple Jump| AND |Dive|) OR |Long Jump|) OR (|!reasonable| AND ((|Double Jump| AND (|Kick| OR |Dive|)) OR (|Wallkick| AND (|Sideflip| OR |Jump|)))) OR (|!obscure| AND (|Double Jump| OR (|Backflip| AND |Wallkick|))) OR (|!hard| AND |Jump| AND |Dive| AND (|!expert| OR |Kick| OR |Ground Pound| OR |Punch|))"
       },
       {
         "exists": true,
@@ -320,27 +320,28 @@
       },
       {
         "exists": true,
-        "Comment": "Can use the teleporter located near start behind the breakable box with a 1 up AND lava boosts to get secrets. Can walk off GP with no jump. For hard you need to get speed with RO OR SK then WK up to the second box, then WK the 3rd box a frame OR 2 before it disapears.",
-        "Requirements": "(|Long Jump| AND (|Jump| AND (|Backflip| OR |Sideflip| OR |Double Jump|))) OR (|!reasonable| AND (((|Jump| OR |Backflip| OR |Sideflip|) AND (|Ground Pound| OR |Punch| OR |Kick|)) OR |Long Jump|)) OR (|!hard| AND |Wallkick| AND (|Ground Pound| OR |Punch| OR |Kick|) AND (|Slidekick| OR |Dive|))"
+        "Comment": "Can use the teleporter located near start behind the breakable box with a 1 up AND lava boosts to get secrets. Can walk off GP with no jump to break box to secret. For expert you need to get speed with RO OR SK then WK up to the second box, then WK the 3rd box a frame OR 2 before it disapears.",
+        "Requirements": "(|Long Jump| AND (|Jump| AND (|Backflip| OR |Sideflip| OR |Double Jump|))) OR(|!reasonable| AND (((|Jump| OR |Backflip| OR |Sideflip|) AND (|Ground Pound| OR |Punch| OR |Kick|)) OR |Long Jump|)) OR (|!expert| AND |Wallkick| AND (|Ground Pound| OR |Punch| OR |Kick|) AND (|Slidekick| OR |Dive|))"
       },
       {
         "exists": true,
-        "Comment": "Hard: Go up spiral, WK to open VC box, go up spiral, fall down AND WK up, WK/rungrab,lavaboost to star.",
-        "Requirements": "(|Vanish Cap| AND |Wallkick| AND ((|Jump| OR |Long Jump|) OR (|!reasonable| AND |Sideflip|) OR (|!hard|)))"
+        "Comment": "Expert: Go up spiral, WK to open VC box, go up spiral, fall down AND WK up, WK/rungrab,lavaboost to star.",
+        "Requirements": "(|Vanish Cap| AND |Wallkick| AND ((|Jump| OR |Long Jump|) OR (|!reasonable| AND |Sideflip|) OR (|!expert|)))"
       },
       {
         "exists": true,
+        "Comment": "Could not find any cheese :(",
         "Requirements": "|Vanish Cap| AND (|Jump| OR |Long Jump| OR |Sideflip| OR |Backflip|)"
       },
       {
         "exists": true,
-        "Comment": "Hard: break box then bounce off bat to kill AND grab star in one go OR dive/slidekick bat AND use dive/slidekick with fwoosh to grab star. Reasonable is long jump from above for star OR jump using ice speed.",
-        "Requirements": "(|Sideflip| OR |Backflip| OR |Double Jump|) OR (|!reasonable| AND (|Jump| OR |Long Jump|)) OR (|!hard| AND (|Ground Pound| OR |Punch| OR |Kick| OR |Dive| OR |Slidekick|))"
+        "Comment": "Reasonable is long jump from above for star OR jump using ice speed. Expert: break box then bounce off bat to kill AND grab star in one go OR dive/slidekick bat AND use dive/slidekick with fwoosh to grab star.",
+        "Requirements": "(|Sideflip| OR |Backflip| OR |Double Jump|) OR (|!reasonable| AND (|Jump| OR |Long Jump|)) OR (|!expert| AND (|Ground Pound| OR |Punch| OR |Kick| OR |Dive| OR |Slidekick|))"
       },
       {
         "exists": true,
-        "Comment": "Hard has a lot of very tight tricks. Uses tricks from previous stars. Some of them are exactly 100. Remember to get the gold bat coin.",
-        "Requirements": "(|Double Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR (|Jump| AND (|Wallkick| OR |Punch| OR |Ground Pound| OR |Kick| OR |Vanish Cap|))) OR (|!hard| AND (|Ground Pound| OR (|Wallkick| AND (|Vanish Cap| OR |Punch| OR |Kick|)) OR ((|Dive| OR |Slidekick|) AND (|Punch| OR |Kick|))))"
+        "Comment": "Expert has a lot of very tight tricks. Uses tricks from previous stars. Some of them are exactly 100. Remember to get the gold bat coin.",
+        "Requirements": "(|Double Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR (|Jump| AND (|Wallkick| OR |Punch| OR |Ground Pound| OR |Kick| OR |Vanish Cap|))) OR (|!expert| AND (|Ground Pound| OR (|Wallkick| AND (|Vanish Cap| OR |Punch| OR |Kick|)) OR ((|Dive| OR |Slidekick|) AND (|Punch| OR |Kick|))))"
       }
     ],
     "Cannon": {
@@ -360,8 +361,8 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "All reasonable would use lava boost and/or flyguy. Obscure LJ uses double lava boost to collect 5 coins AND then long jumps. Hard is wackadoodle, lots of flyguy manip.",
-        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip|)) OR (|!reasonable| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!obscure| AND (|Long Jump|)) OR (|!hard| AND ((|Metal Cap| AND (|Slidekick| OR |Dive| OR |Wallkick|)) OR (|Wallkick| AND |Kick|)))"
+        "Comment": "All reasonable would use lava boost and/or flyguy. Obscure LJ uses double lava boost to collect 5 coins AND then long jumps. Can lavaboost to open MC near spawn. Hard keeps MC until pole entry. Expert is wackadoodle, lots of flyguy manip. Can dive/SK/kick over all gaps and fires on walkway to star.",
+        "Requirements": "(|Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip|)) OR (|!reasonable| AND (|Jump| OR |Sideflip| OR |Backflip|)) OR (|!obscure| AND (|Long Jump|)) OR (|!hard| AND |Metal Cap| AND |Wallkick|) OR (|!expert| AND ((|Metal Cap| AND (|Slidekick| OR |Dive|)) OR (|Wallkick| AND |Kick|)))"
       },
       {
         "exists": true,

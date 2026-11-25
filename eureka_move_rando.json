@@ -321,7 +321,7 @@
       {
         "exists": true,
         "Comment": "Can use the teleporter located near start behind the breakable box with a 1 up AND lava boosts to get secrets. Can walk off GP with no jump to break box to secret. For expert you need to get speed with RO OR SK then WK up to the second box, then WK the 3rd box a frame OR 2 before it disapears.",
-        "Requirements": "(|Long Jump| AND (|Jump| AND (|Backflip| OR |Sideflip| OR |Double Jump|))) OR(|!reasonable| AND (((|Jump| OR |Backflip| OR |Sideflip|) AND (|Ground Pound| OR |Punch| OR |Kick|)) OR |Long Jump|)) OR (|!expert| AND |Wallkick| AND (|Ground Pound| OR |Punch| OR |Kick|) AND (|Slidekick| OR |Dive|))"
+        "Requirements": "(|Long Jump| AND (|Jump| AND (|Backflip| OR |Sideflip| OR |Double Jump|))) OR (|!reasonable| AND (((|Jump| OR |Backflip| OR |Sideflip|) AND (|Ground Pound| OR |Punch| OR |Kick|)) OR |Long Jump|)) OR (|!expert| AND |Wallkick| AND (|Ground Pound| OR |Punch| OR |Kick|) AND (|Slidekick| OR |Dive|))"
       },
       {
         "exists": true,
@@ -1076,7 +1076,7 @@
       {
         "exists": true,
         "Comment": "(Roof star) Expert AND hard use flyguys to get up, for dive AND SK you will want to use the wooden ramp to bounce off of the first flyguy. Can kick the VC box open from the spawn side of the road.",
-        "Requirements": "(|Backflip| OR |Double Jump| OR (|Sideflip| AND (|Jump| OR |Wallkick| OR |Vanish Cap|)) OR (|Jump| AND (|Wallkick| OR |Vanish Cap|))) OR (|!reasonable| AND |Long Jump|) OR  (|!obscure| AND (|Jump| OR |Long Jump| OR |Sideflip|)) OR (|!hard| AND |Vanish Cap| AND |Kick| AND (|Slidekick| OR |Dive|)) OR (|!expert| AND |Vanish Cap| AND (|Slidekick| OR |Dive| OR |Kick|))"
+        "Requirements": "(|Backflip| OR |Double Jump| OR (|Sideflip| AND (|Jump| OR |Wallkick| OR |Vanish Cap|)) OR (|Jump| AND (|Wallkick| OR |Vanish Cap|))) OR (|!reasonable| AND |Long Jump|) OR (|!obscure| AND (|Jump| OR |Long Jump| OR |Sideflip|)) OR (|!hard| AND |Vanish Cap| AND |Kick| AND (|Slidekick| OR |Dive|)) OR (|!expert| AND |Vanish Cap| AND (|Slidekick| OR |Dive| OR |Kick|))"
       },
       {
         "exists": true,
@@ -1191,7 +1191,7 @@
     "Settings": {
       "cannons": true,
       "prog_key": 1,
-      "Version": "v0.5",
+      "Version": "v0.6",
       "Moves": true
     },
     "Troll Star": {

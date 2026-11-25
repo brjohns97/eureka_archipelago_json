@@ -1,15 +1,5 @@
 
 
-(|Triple Jump| AND |Wing Cap| AND (|Vanish Cap| OR |!hard| OR (|!obscure| AND |Ground Pound|)))
-
-
-
-
-
-
-        "Comment": "Can use star 1 strats to get in cannon. Hard because it is tough to find where to shoot and if you miss you might die. Find the lower parapet lava opposite side of where the cannon star is (the more symetrical looking one). Position the top or bottom triangle tip to where the sky above the lava parapet and the parapet to it's right meet. Look up until you find a pink dot among darkness. Position the base of the bottom triangle in the middle such that it lines up with the brightest streak in the pink dot. Fire!",
-
-
 
 
 

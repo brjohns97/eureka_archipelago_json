@@ -148,7 +148,8 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Stars:5| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |Slidekick| OR |Dive| OR |Kick|)",
+    "Comment": "Can BLJ on stairs to clip through star requirement (speedrun strat)",
+    "Requirements": "(|!expert| AND |Long Jump|) OR (|Stars:5| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |Slidekick| OR |Dive| OR |Kick|))",
     "Sign": {
       "exists": false
     }
@@ -199,7 +200,8 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|Stars:5| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |Slidekick| OR |Dive| OR |Kick|)",
+    "Comment": "Can BLJ on stairs to clip through star requirement (speedrun strat)",
+    "Requirements": "(|!expert| AND |Long Jump|) OR (|Stars:5| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |Slidekick| OR |Dive| OR |Kick|))",
     "Sign": {
       "exists": false
     }
@@ -259,8 +261,8 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "Obscure uses crazed crate to hop over wall OR long jump to yellow flag then long jump backwards. Hard uses dive to crazed crate OR BF WK OR Jump from the stained glass opening (ledge grab left side of opening, get up, walk out slightly).",
-        "Requirements": "((|!reasonable| OR |Ground Pound| OR |Punch| OR |Kick|) AND (|Double Jump| OR |Sideflip| OR (|Jump| AND |Wallkick|) OR (|Backflip| AND (|Jump| OR |Long Jump|)))) OR (|!obscure| AND ((|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump| OR |Jump|) AND |Punch|))) OR (|!hard| AND (|Jump| OR (|Long Jump| AND |Dive|) OR (|Backflip| AND (|Wallkick| OR |Dive|))))"
+        "Comment": "Obscure uses crazed crate to hop over wall OR long jump to yellow flag then long jump backwards. Hard uses dive to crazed crate OR BF WK OR Jump from the stained glass opening (ledge grab left side of opening, get up, walk out slightly). Expert does a lave boost up the castle to the right side where the 8 coin cirlce opening is then uses momentum preserving kicks to get up to the far right side where you can stand and not fall, then use long jump or backflip.",
+        "Requirements": "((|!reasonable| OR |Ground Pound| OR |Punch| OR |Kick|) AND (|Double Jump| OR |Sideflip| OR (|Jump| AND |Wallkick|) OR (|Backflip| AND (|Jump| OR |Long Jump|)))) OR (|!obscure| AND ((|Long Jump| AND |Wallkick|) OR ((|Backflip| OR |Long Jump| OR |Jump|) AND |Punch|))) OR (|!hard| AND (|Jump| OR (|Long Jump| AND |Dive|) OR (|Backflip| AND (|Wallkick| OR |Dive|)))) OR (|!expert| AND (Kick| AND (|Long Jump| OR |Backflip|)))"
       },
       {
         "exists": true,
@@ -269,8 +271,8 @@
       },
       {
         "exists": true,
-        "Comment": "Obscure OR Hard may use the crazed crate AND come in from the top. Expert and hard also use difficult parkour.",
-        "Requirements": "((|Long Jump| OR |Jump|) AND (|Backflip| OR |Wallkick| OR |Sideflip|)) OR (|!reasonable| AND |Jump|) OR (|!obscure| AND (|Long Jump| AND |Punch|)) OR (|!hard| AND |Dive| AND |Long Jump|) OR (|!expert| AND ((|Backflip| AND |Wallkick|) OR (|Sideflip| AND |Dive|)))"
+        "Comment": "Obscure OR Hard may use the crazed crate AND come in from the top. Hard BF WK can come in from the bottom of pillar before the star box pillar then BF WK the left side parapet and WK the star box pillar parapet to get on it. Expert and hard also use difficult parkour or star 1 strats to get on top of castle.",
+        "Requirements": "((|Long Jump| OR |Jump|) AND (|Backflip| OR |Wallkick| OR |Sideflip|)) OR (|!reasonable| AND |Jump|) OR (|!obscure| AND (|Long Jump| AND |Punch|)) OR (|!hard| AND ((|Backflip| AND |Wallkick|) OR (|Dive| AND |Long Jump|))) OR (|!expert| AND ((Kick| AND |Long Jump|) OR (|Sideflip| AND |Dive|)))"
       },
       {
         "exists": true,
@@ -636,7 +638,8 @@
       "exists": false,
       "Requirements": ""
     },
-    "Requirements": "|@OW2| AND (|Triple Jump| OR (|!reasonable| AND ((|Wallkick| AND (|Jump| OR |Long Jump|)) OR |Sideflip| OR |Double Jump|)) OR (|!obscure| AND |Backflip| AND |Wallkick|))",
+    "Comment": "Can do a well executed rollout jump to grab ledge.",
+    "Requirements": "|@OW2| AND (|Triple Jump| OR (|!reasonable| AND ((|Wallkick| AND (|Jump| OR |Long Jump|)) OR |Sideflip| OR |Double Jump|)) OR (|!obscure| AND |Backflip| AND |Wallkick|) OR (|!expert| AND |Jump| AND |Dive|))",
     "Sign": {
       "exists": false
     }
@@ -1070,8 +1073,8 @@
     "Stars": [
       {
         "exists": true,
-        "Comment": "(King Whomp star) Need jump to get in pipe. Can do classic speedrun strat of jump GP through him. Can WK his face to start the fight. Can also runoff the platform AND GP through him as he falls.",
-        "Requirements": "|Ground Pound| AND ((|Vanish Cap| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!obscure| AND |Wallkick| AND (|Double Jump| OR (|Long Jump| AND |Jump|))) OR (|!hard| AND ((|Wallkick| AND |Long Jump| AND (|Sideflip| OR |Backflip|)) OR (|Long Jump| AND |Vanish Cap|))) OR (|!expert| AND |Wallkick| AND (|Backflip| OR |Long Jump|)))"
+        "Comment": "(King Whomp star) Need jump to get in pipe. Can do classic speedrun strat of jump GP through him. Can WK his face to start the fight. Can (long jump) WK him and GP. Can also runoff the platform AND GP through him as he falls.",
+        "Requirements": "|Ground Pound| AND ((|Vanish Cap| AND (|Jump| OR |Backflip| OR |Sideflip|)) OR (|!obscure| AND |Wallkick| AND (|Double Jump| OR (|Long Jump| AND |Jump|))) OR (|!hard| AND |Long Jump| AND (|Wallkick| OR |Vanish Cap|)) OR (|!expert| AND |Wallkick| AND |Backflip|))"
       },
       {
         "exists": true,
@@ -1118,8 +1121,8 @@
       },
       {
         "exists": true,
-        "Comment": "Have to triple jump off of the tree nearest to the bowser 2 entrance (I started it from the top of tree), WK the castle then WK rock AND grab ledge. TJ dive OR LJ to star.",
-        "Requirements": "|@OW2| AND ((|Stars:70| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) AND ((|Punch| OR |Kick| OR |Dive| OR |Slidekick|) OR (|Ground Pound| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |Wallkick|))))) OR (|!expert| AND (|Triple Jump| AND |Wallkick| AND (|Long Jump| OR |Dive|))))"
+        "Comment": "Can triple jump off of the tree nearest to the bowser 2 entrance (I started it from the top of tree), WK the castle then WK rock AND grab ledge. TJ dive OR LJ to star. OR BLJ from the walrus and jump with crazy speed (100 star speedrun strat)",
+        "Requirements": "|@OW2| AND ((|Stars:70| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) AND ((|Punch| OR |Kick| OR |Dive| OR |Slidekick|) OR (|Ground Pound| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |Wallkick|))))) OR (|!expert| AND |Triple Jump| AND |Wallkick| AND |Dive|) OR |@Walrus Jump|)"
       },
       {
         "exists": true,
@@ -1201,14 +1204,15 @@
       "exists": false
     },
     "Macros": {
+      "Walrus Jump": "(|@OW2| AND |!expert| AND |Long Jump| AND |Jump|)",
       "B2 Secret": "(|Stars:5| AND |Wallkick| AND ((|!hard| AND |Triple Jump|) OR (|!expert| AND (|Long Jump| OR |Double Jump|))))",
       "B3 Secret": "((|!hard| AND |Wallkick|) AND (|Long Jump| OR (|Triple Jump| AND |Dive|)))",
       "B3 Entrance": "((|Stars:60| OR |@B3 Secret|) AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip| OR |!reasonable|) AND |@OW2| AND |Key 2|)",
       "OW2": "(|Key 1| OR |@B2 Secret|)",
       "C3S1": "(((|Jump| OR |Sideflip| OR |Backflip|) AND (|Punch| OR |Kick| OR |Ground Pound|)) OR (|!reasonable| AND |Long Jump| AND (|Punch| OR |Kick|)) OR (|!obscure| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|)) OR (|!hard| AND |Shell| AND (|Slidekick| OR |Dive| OR |Kick|)) OR (|!expert| AND (|Wallkick| OR (|Shell| AND (|Ground Pound| OR |Punch|)))))",
       "MC Entrance": "(|Stars:10| AND ((|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) OR (|!reasonable| AND (|Slidekick| OR |Dive|)) OR (|!obscure| AND |Punch|) OR |!expert|))",
-      "WC Entrance": "(|@OW2| AND |Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!obscure| AND |Backflip|)))",
-      "VC Entrance": "(|@OW2| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!reasonable| AND |Backflip|)))"
+      "WC Entrance": "(|@OW2| AND ((|Walrus Jump|) OR (|Wallkick| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!obscure| AND |Backflip|))))",
+      "VC Entrance": "(|@OW2| AND (|Jump| OR |Long Jump| OR |Sideflip| OR (|!reasonable| AND |Backflip|))))"
     },
     "Options": [],
     "Entrances": []

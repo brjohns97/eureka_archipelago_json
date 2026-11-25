@@ -1,6 +1,9 @@
 
 
 
+|@OW2| AND ((|Stars:70| AND (|Jump| OR |Long Jump| OR |Backflip| OR |Sideflip|) AND ((|Punch| OR |Kick| OR |Dive| OR |Slidekick|) OR (|Ground Pound| AND (|Jump| OR |Sideflip| OR |Backflip| OR (|Long Jump| AND |Wallkick|))))) OR (|!expert| AND |Triple Jump| AND |Wallkick| AND |Dive|) OR |@walrus jump|)
+
+
 
 
 "Jump"
